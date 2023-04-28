@@ -1,0 +1,83 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>ps files/allGuide/maingui3.png</file>
+    <file>ps files/allGuide/maingui3ar.png</file>
+    <file>ps files/allGuide/maingui3ard.png</file>
+    <file>ps files/allGuide/maingui3d.png</file>
+    <file>Bebas-Regular.ttf</file>
+    <file>Transliteration.TTF</file>
+    <file>NotoSansEgyptianHieroglyphs-Regular.ttf</file>
+    <file>ps files/allGuide/background.png</file>
+    <file>ps files/allGuide/backgroundar.png</file>
+    <file>ps files/allGuide/backgroundard.png</file>
+    <file>ps files/allGuide/backgroundd.png</file>
+    <file>ps files/allGuide/dictionary.png</file>
+    <file>ps files/allGuide/dictionaryar.png</file>
+    <file>ps files/allGuide/dictionaryard.png</file>
+    <file>ps files/allGuide/dictionaryd.png</file>
+    <file>ps files/allGuide/dictionarylabels.png</file>
+    <file>ps files/allGuide/dictionarylabelsar.png</file>
+    <file>ps files/allGuide/dictionarylabelsard.png</file>
+    <file>ps files/allGuide/dictionarylabelsd.png</file>
+    <file>ps files/allGuide/history.png</file>
+    <file>ps files/allGuide/historyar.png</file>
+    <file>ps files/allGuide/historyard.png</file>
+    <file>ps files/allGuide/historyd.png</file>
+    <file>ps files/allGuide/maingui.png</file>
+    <file>ps files/allGuide/maingui2.png</file>
+    <file>ps files/allGuide/maingui2ar.png</file>
+    <file>ps files/allGuide/maingui2ard.png</file>
+    <file>ps files/allGuide/maingui2d.png</file>
+    <file>ps files/allGuide/maingui3.png</file>
+    <file>ps files/allGuide/maingui3ar.png</file>
+    <file>ps files/allGuide/maingui3ard.png</file>
+    <file>ps files/allGuide/maingui3d.png</file>
+    <file>ps files/allGuide/maingui4.png</file>
+    <file>ps files/allGuide/maingui4ar.png</file>
+    <file>ps files/allGuide/maingui4ard.png</file>
+    <file>ps files/allGuide/maingui4d.png</file>
+    <file>ps files/allGuide/mainguiar.png</file>
+    <file>ps files/allGuide/mainguiardard.png</file>
+    <file>ps files/allGuide/mainguid.png</file>
+    <file>ps files/allGuide/mainguilabels.png</file>
+    <file>ps files/allGuide/mainguilabelsar.png</file>
+    <file>ps files/allGuide/mainguilabelsard.png</file>
+    <file>ps files/allGuide/mainguilabelsd.png</file>
+    <file>ps files/allGuide/moreinfomoreresults.png</file>
+    <file>ps files/allGuide/moreinfomoreresultsar.png</file>
+    <file>ps files/allGuide/moreinfomoreresultsard.png</file>
+    <file>ps files/allGuide/moreinfomoreresultsd.png</file>
+    <file>ps files/allGuide/settings.png</file>
+    <file>ps files/allGuide/settingsar.png</file>
+    <file>ps files/allGuide/settingsard.png</file>
+    <file>ps files/allGuide/settingsd.png</file>
+    <file>icons/ankh_icon.png</file>
+    <file>icons/exchangef.png</file>
+    <file>icons/exchangefdark.png</file>
+    <file>icons/exchange.png</file>
+    <file>icons/exchangedark.png</file>
+    <file>icons/Toggle off2dark.png</file>
+    <file>icons/Toggle off2darkh.png</file>
+    <file>icons/Toggle on2dark.png</file>
+    <file>icons/Toggle on2darkh.png</file>
+    <file>icons/118Z_2012.w026.n002.13B.p1.13bedark.png</file>
+    <file>icons/118Z_2012.w026.n002.13B.p1.13 blurredsmalldark.png</file>
+    <file>icons/arrow.png</file>
+    <file>icons/arrowdown.png</file>
+    <file>icons/arrowupdark.png</file>
+    <file>icons/arrowdowndark.png</file>
+    <file>icons/arrowleft.png</file>
+    <file>icons/arrowleftdark.png</file>
+    <file>icons/arrowright.png</file>
+    <file>icons/arrowrightdark.png</file>
+    <file>icons/arrowup.png</file>
+    <file>icons/118Z_2012.w026.n002.13B.p1.13 blurredsmall.png</file>
+    <file>icons/118Z_2012.w026.n002.13B.p1.13be.png</file>
+    <file>icons/Toggle off.png</file>
+    <file>icons/Toggle off2.png</file>
+    <file>icons/Toggle off2h.png</file>
+    <file>icons/Toggle on.png</file>
+    <file>icons/Toggle on2.png</file>
+    <file>icons/Toggle on2h.png</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,9 @@
+{'darkmode': True,
+ 'boldtext': False,
+ 'showdate': True,
+ 'showtime': True,
+ 'bgcolor': 'd',
+ 'defaultdictionary': 'C:/Users/ammar/Desktop/GradProject/dictionaries/defaultDictionary.txt',
+ 'defaultlanguage': 'English',
+ 'combo1': 1,
+ 'combo2': 0}

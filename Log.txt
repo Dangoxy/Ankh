@@ -1,0 +1,1029 @@
+[12/03/2023 11:47:42 AM] Opened Ankh the application.
+[12/03/2023 11:47:46 AM] Closed Ankh the application.
+[12/03/2023 11:52:18 AM] Opened Ankh the application.
+[12/03/2023 11:52:25 AM] Changed dictionary from: dictionaryFull.txt, to: dictionaryFull1.txt
+[12/03/2023 11:52:32 AM] Removed a word with the key {asdaaaaaaa}.
+[12/03/2023 11:52:55 AM] Added a word with a single meaning with key: {logtest1}.
+[12/03/2023 11:53:14 AM] Added a word with a single meaning with key: {testlog2}.
+[12/03/2023 11:56:12 AM] Opened Ankh the application.
+[12/03/2023 11:56:20 AM] Changed dictionary from: dictionaryFull.txt, to: dictionaryFull1.txt
+[12/03/2023 11:56:45 AM] Added a word with a single meaning with key: {log1}.
+[12/03/2023 11:57:01 AM] Added a word with multiple meanings with key: {log2}.
+[12/03/2023 11:59:34 AM] Opened Ankh the application.
+[12/03/2023 11:59:46 AM] Changed dictionary from: dictionaryFull.txt, to: dictionaryFull1.txt
+[12/03/2023 11:59:49 AM] Saved dictionary.
+[12/03/2023 11:59:58 AM] Saved dictionary as: C:/Users/ammar/Desktop/GradProject/dictionaries/logTest1.txt
+[12/03/2023 12:02:59 PM] Closed Ankh the application.
+[12/03/2023 12:03:03 PM] Opened Ankh the application.
+[12/03/2023 12:03:15 PM] Saved dictionary as: logTest2.txt
+[12/03/2023 12:04:00 PM] Added a word with a single meaning with key: {log1}.
+[12/03/2023 12:04:11 PM] Saved dictionary as: logTest3.txt
+[12/03/2023 12:05:24 PM] Closed Ankh the application.
+[12/03/2023 12:05:27 PM] Opened Ankh the application.
+[12/03/2023 12:06:53 PM] Added a word with a single meaning with key: {log2}.
+[12/03/2023 12:07:01 PM] Saved dictionary as: logTest4.txt
+[12/03/2023 12:08:42 PM] Closed Ankh the application.
+[12/03/2023 12:13:24 PM] Opened Ankh the application.
+[12/03/2023 12:14:29 PM] Opened Ankh the application.
+[12/03/2023 12:14:38 PM] Removed the following from history: [12/03/2023 6:01:12 AM]=> Translated from English to Hieroglyph => greetings : 𓋴 𓈖 𓃀 𓃀     
+[12/03/2023 12:18:28 PM] Closed Ankh the application.
+[12/03/2023 12:18:31 PM] Opened Ankh the application.
+[12/03/2023 12:18:37 PM] Removed the following from history: [12/03/2023 12:06:15 PM]=> Translated from English to English => log : log
+[12/03/2023 12:18:55 PM] Removed the following from history: [12/03/2023 12:05:42 PM]=> Translated from Gardners code to English => log1 : 
+[12/03/2023 12:19:21 PM] Removed the following from history: [12/03/2023 12:04:35 PM]=> Translated from Gardners code to English => log : 
+[12/03/2023 12:19:21 PM] Removed the following from history: [12/03/2023 12:03:33 PM]=> Translated from Hieroglyph to English => log1 : 
+[12/03/2023 12:20:28 PM] Opened Ankh the application.
+[12/03/2023 12:20:40 PM] Removed the following from history: [12/03/2023 6:29:43 AM]=> Translated from English to Hieroglyph => a1 a2 a33 b2 : -  -  -  -    
+[12/03/2023 12:20:42 PM] Removed the following from history: [12/03/2023 6:22:30 AM]=> Translated from Gardners code to Transliteration => a2 a1 a1 b3 : -
+[12/03/2023 12:21:28 PM] Saved default settings.
+[12/03/2023 12:21:35 PM] Changed default dictionary from settings to: dictionaryFull1.txt
+[12/03/2023 12:21:36 PM] Saved default settings.
+[12/03/2023 1:18:00 PM] Closed Ankh the application.
+[12/03/2023 1:21:09 PM] Closed Ankh the application.
+[12/03/2023 1:58:01 PM] Opened Ankh the application.
+[12/03/2023 2:17:08 PM] Saved default settings.
+[12/03/2023 2:21:04 PM] Changed dictionary from: dictionaryFull1.txt, to: dictionaryFull.txt
+[12/03/2023 2:21:22 PM] Changed dictionary from: dictionaryFull.txt, to: dictionaryFull1.txt
+[12/03/2023 2:24:40 PM] Closed Ankh the application.
+[13/03/2023 1:35:24 PM] Opened Ankh the application.
+[13/03/2023 1:35:28 PM] Closed Ankh the application.
+[13/03/2023 1:49:09 PM] Opened Ankh the application.
+[13/03/2023 1:49:28 PM] Closed Ankh the application.
+[13/03/2023 2:02:21 PM] Opened Ankh the application.
+[13/03/2023 2:04:44 PM] Closed Ankh the application.
+[13/03/2023 2:06:17 PM] Opened Ankh the application.
+[13/03/2023 2:08:19 PM] Closed Ankh the application.
+[13/03/2023 2:08:44 PM] Opened Ankh the application.
+[13/03/2023 2:10:21 PM] Closed Ankh the application.
+[13/03/2023 2:11:45 PM] Opened Ankh the application.
+[13/03/2023 2:13:06 PM] Changed default dictionary from settings to: dictionaryFull.txt
+[13/03/2023 2:14:06 PM] Changed dictionary from: dictionaryFull.txt, to: dictionaryFull1.txt
+[13/03/2023 2:14:50 PM] Closed Ankh the application.
+[13/03/2023 2:23:08 PM] Opened Ankh the application.
+[13/03/2023 2:30:06 PM] Closed Ankh the application.
+[13/03/2023 2:30:08 PM] Opened Ankh the application.
+[13/03/2023 2:30:15 PM] Changed default dictionary from settings to: defaultDictionary.txt
+[13/03/2023 2:30:17 PM] Saved default settings.
+[13/03/2023 2:30:36 PM] Saved default settings.
+[13/03/2023 2:31:33 PM] Opened Ankh the application.
+[13/03/2023 2:33:38 PM] Opened Ankh the application.
+[13/03/2023 2:34:01 PM] Closed Ankh the application.
+[13/03/2023 2:34:19 PM] Opened Ankh the application.
+[13/03/2023 2:34:37 PM] Closed Ankh the application.
+[13/03/2023 2:35:29 PM] Opened Ankh the application.
+[13/03/2023 2:36:50 PM] Opened Ankh the application.
+[13/03/2023 2:37:09 PM] Closed Ankh the application.
+[13/03/2023 2:40:40 PM] Opened Ankh the application.
+[13/03/2023 2:40:50 PM] Closed Ankh the application.
+[13/03/2023 2:43:31 PM] Opened Ankh the application.
+[13/03/2023 2:43:45 PM] Saved default settings.
+[13/03/2023 2:43:47 PM] Closed Ankh the application.
+[13/03/2023 2:43:49 PM] Opened Ankh the application.
+[13/03/2023 2:44:41 PM] Opened Ankh the application.
+[13/03/2023 2:44:54 PM] Saved default settings.
+[13/03/2023 2:47:03 PM] Closed Ankh the application.
+[13/03/2023 2:56:01 PM] Opened Ankh the application.
+[13/03/2023 2:56:48 PM] Opened Ankh the application.
+[13/03/2023 2:56:59 PM] Saved default settings.
+[13/03/2023 2:57:05 PM] Closed Ankh the application.
+[13/03/2023 2:57:14 PM] Opened Ankh the application.
+[13/03/2023 2:57:41 PM] Saved default settings.
+[13/03/2023 2:57:48 PM] Closed Ankh the application.
+[13/03/2023 2:57:50 PM] Opened Ankh the application.
+[13/03/2023 2:58:48 PM] Closed Ankh the application.
+[13/03/2023 2:58:55 PM] Opened Ankh the application.
+[13/03/2023 2:59:04 PM] Closed Ankh the application.
+[13/03/2023 3:00:20 PM] Opened Ankh the application.
+[13/03/2023 3:00:30 PM] Closed Ankh the application.
+[13/03/2023 3:00:47 PM] Opened Ankh the application.
+[13/03/2023 3:00:59 PM] Closed Ankh the application.
+[13/03/2023 3:01:12 PM] Opened Ankh the application.
+[13/03/2023 3:01:17 PM] Closed Ankh the application.
+[13/03/2023 3:01:27 PM] Opened Ankh the application.
+[13/03/2023 3:01:34 PM] Closed Ankh the application.
+[13/03/2023 3:02:01 PM] Opened Ankh the application.
+[13/03/2023 3:02:24 PM] Opened Ankh the application.
+[13/03/2023 3:04:13 PM] Closed Ankh the application.
+[13/03/2023 3:09:32 PM] Opened Ankh the application.
+[13/03/2023 3:16:11 PM] Closed Ankh the application.
+[13/03/2023 3:58:53 PM] Opened Ankh the application.
+[13/03/2023 3:59:03 PM] Closed Ankh the application.
+[13/03/2023 3:59:32 PM] Opened Ankh the application.
+[13/03/2023 4:00:11 PM] Closed Ankh the application.
+[13/03/2023 4:02:06 PM] Opened Ankh the application.
+[13/03/2023 4:03:43 PM] Opened Ankh the application.
+[13/03/2023 4:04:42 PM] Closed Ankh the application.
+[13/03/2023 4:04:44 PM] Opened Ankh the application.
+[13/03/2023 4:07:42 PM] Closed Ankh the application.
+[13/03/2023 4:07:45 PM] Opened Ankh the application.
+[13/03/2023 4:07:49 PM] Closed Ankh the application.
+[13/03/2023 4:21:11 PM] Opened Ankh the application.
+[13/03/2023 4:21:31 PM] Opened Ankh the application.
+[13/03/2023 4:38:45 PM] Opened Ankh the application.
+[13/03/2023 4:38:59 PM] Closed Ankh the application.
+[13/03/2023 4:39:03 PM] Opened Ankh the application.
+[13/03/2023 4:39:16 PM] Closed Ankh the application.
+[13/03/2023 4:45:39 PM] Opened Ankh the application.
+[13/03/2023 4:46:01 PM] Closed Ankh the application.
+[13/03/2023 4:46:37 PM] Opened Ankh the application.
+[13/03/2023 4:46:53 PM] Opened Ankh the application.
+[13/03/2023 4:47:00 PM] Closed Ankh the application.
+[13/03/2023 4:47:35 PM] Opened Ankh the application.
+[13/03/2023 4:52:09 PM] Opened Ankh the application.
+[13/03/2023 4:52:28 PM] Opened Ankh the application.
+[13/03/2023 4:52:49 PM] Closed Ankh the application.
+[13/03/2023 4:54:35 PM] Opened Ankh the application.
+[13/03/2023 4:55:07 PM] Opened Ankh the application.
+[13/03/2023 5:01:30 PM] Opened Ankh the application.
+[13/03/2023 5:01:59 PM] Opened Ankh the application.
+[13/03/2023 5:04:16 PM] Opened Ankh the application.
+[13/03/2023 5:04:47 PM] Opened Ankh the application.
+[13/03/2023 7:51:19 PM] Closed Ankh the application.
+[13/03/2023 8:08:27 PM] Opened Ankh the application.
+[13/03/2023 8:10:25 PM] Opened Ankh the application.
+[13/03/2023 8:10:37 PM] Closed Ankh the application.
+[13/03/2023 8:10:48 PM] Opened Ankh the application.
+[13/03/2023 8:11:00 PM] Closed Ankh the application.
+[13/03/2023 8:11:15 PM] Opened Ankh the application.
+[13/03/2023 8:11:21 PM] Closed Ankh the application.
+[13/03/2023 8:12:21 PM] Opened Ankh the application.
+[13/03/2023 8:12:49 PM] Closed Ankh the application.
+[13/03/2023 8:14:13 PM] Opened Ankh the application.
+[13/03/2023 8:14:19 PM] Closed Ankh the application.
+[13/03/2023 8:14:35 PM] Opened Ankh the application.
+[13/03/2023 8:14:41 PM] Closed Ankh the application.
+[13/03/2023 8:15:44 PM] Opened Ankh the application.
+[13/03/2023 8:15:52 PM] Closed Ankh the application.
+[13/03/2023 8:22:36 PM] Opened Ankh the application.
+[13/03/2023 8:22:44 PM] Closed Ankh the application.
+[13/03/2023 8:23:13 PM] Opened Ankh the application.
+[13/03/2023 8:25:57 PM] Opened Ankh the application.
+[13/03/2023 8:26:06 PM] Opened Ankh the application.
+[13/03/2023 8:26:15 PM] Closed Ankh the application.
+[13/03/2023 8:27:00 PM] Opened Ankh the application.
+[13/03/2023 8:27:25 PM] Closed Ankh the application.
+[13/03/2023 8:39:37 PM] Opened Ankh the application.
+[13/03/2023 8:39:43 PM] Opened Ankh the application.
+[13/03/2023 8:40:14 PM] Closed Ankh the application.
+[13/03/2023 8:41:09 PM] Opened Ankh the application.
+[13/03/2023 8:41:18 PM] Closed Ankh the application.
+[13/03/2023 8:41:37 PM] Opened Ankh the application.
+[13/03/2023 8:41:55 PM] Closed Ankh the application.
+[13/03/2023 8:42:31 PM] Opened Ankh the application.
+[13/03/2023 8:43:08 PM] Opened Ankh the application.
+[13/03/2023 8:45:14 PM] Closed Ankh the application.
+[13/03/2023 8:45:16 PM] Opened Ankh the application.
+[13/03/2023 8:45:22 PM] Closed Ankh the application.
+[13/03/2023 8:52:55 PM] Opened Ankh the application.
+[13/03/2023 8:53:13 PM] Opened Ankh the application.
+[13/03/2023 8:54:22 PM] Opened Ankh the application.
+[13/03/2023 8:54:45 PM] Closed Ankh the application.
+[13/03/2023 8:55:20 PM] Opened Ankh the application.
+[13/03/2023 8:55:35 PM] Closed Ankh the application.
+[13/03/2023 8:55:43 PM] Opened Ankh the application.
+[13/03/2023 8:56:02 PM] Closed Ankh the application.
+[13/03/2023 8:56:04 PM] Opened Ankh the application.
+[13/03/2023 8:56:15 PM] Closed Ankh the application.
+[13/03/2023 8:56:41 PM] Opened Ankh the application.
+[13/03/2023 8:56:53 PM] Closed Ankh the application.
+[13/03/2023 8:56:55 PM] Opened Ankh the application.
+[13/03/2023 8:57:42 PM] Opened Ankh the application.
+[13/03/2023 8:59:00 PM] Opened Ankh the application.
+[13/03/2023 9:02:58 PM] Opened Ankh the application.
+[13/03/2023 9:03:01 PM] Closed Ankh the application.
+[13/03/2023 9:03:08 PM] Opened Ankh the application.
+[13/03/2023 9:06:30 PM] Opened Ankh the application.
+[13/03/2023 9:07:11 PM] Opened Ankh the application.
+[13/03/2023 9:07:45 PM] Opened Ankh the application.
+[13/03/2023 9:08:44 PM] Opened Ankh the application.
+[13/03/2023 9:08:56 PM] Opened Ankh the application.
+[13/03/2023 9:11:18 PM] Opened Ankh the application.
+[13/03/2023 9:11:29 PM] Closed Ankh the application.
+[13/03/2023 9:11:34 PM] Opened Ankh the application.
+[13/03/2023 9:11:50 PM] Opened Ankh the application.
+[13/03/2023 9:11:51 PM] Opened Ankh the application.
+[13/03/2023 9:11:51 PM] Opened Ankh the application.
+[13/03/2023 9:11:51 PM] Opened Ankh the application.
+[13/03/2023 9:11:51 PM] Opened Ankh the application.
+[13/03/2023 9:11:51 PM] Opened Ankh the application.
+[13/03/2023 9:11:51 PM] Opened Ankh the application.
+[13/03/2023 9:22:36 PM] Opened Ankh the application.
+[13/03/2023 9:26:01 PM] Opened Ankh the application.
+[13/03/2023 9:26:04 PM] Closed Ankh the application.
+[13/03/2023 9:28:04 PM] Opened Ankh the application.
+[13/03/2023 9:28:13 PM] Opened Ankh the application.
+[13/03/2023 9:28:43 PM] Opened Ankh the application.
+[13/03/2023 9:30:36 PM] Opened Ankh the application.
+[13/03/2023 9:32:00 PM] Closed Ankh the application.
+[13/03/2023 9:32:02 PM] Opened Ankh the application.
+[13/03/2023 9:32:14 PM] Closed Ankh the application.
+[13/03/2023 9:37:43 PM] Opened Ankh the application.
+[13/03/2023 9:38:06 PM] Opened Ankh the application.
+[13/03/2023 9:40:17 PM] Closed Ankh the application.
+[13/03/2023 9:40:20 PM] Opened Ankh the application.
+[13/03/2023 9:48:22 PM] Closed Ankh the application.
+[13/03/2023 9:49:05 PM] Opened Ankh the application.
+[13/03/2023 9:49:46 PM] Closed Ankh the application.
+[13/03/2023 9:50:26 PM] Opened Ankh the application.
+[13/03/2023 9:50:52 PM] Closed Ankh the application.
+[13/03/2023 9:53:53 PM] Opened Ankh the application.
+[13/03/2023 9:53:56 PM] Closed Ankh the application.
+[14/03/2023 9:58:51 AM] Opened Ankh the application.
+[14/03/2023 9:59:48 AM] Closed Ankh the application.
+[15/03/2023 9:47:11 AM] Opened Ankh the application.
+[15/03/2023 9:47:19 AM] Closed Ankh the application.
+[15/03/2023 9:47:50 AM] Opened Ankh the application.
+[15/03/2023 9:47:58 AM] Closed Ankh the application.
+[15/03/2023 9:48:08 AM] Opened Ankh the application.
+[15/03/2023 9:49:14 AM] Opened Ankh the application.
+[15/03/2023 9:49:26 AM] Closed Ankh the application.
+[15/03/2023 9:50:46 AM] Opened Ankh the application.
+[15/03/2023 9:51:30 AM] Closed Ankh the application.
+[15/03/2023 9:53:56 AM] Opened Ankh the application.
+[15/03/2023 9:54:08 AM] Closed Ankh the application.
+[15/03/2023 9:59:44 AM] Opened Ankh the application.
+[15/03/2023 10:01:09 AM] Closed Ankh the application.
+[15/03/2023 10:02:42 AM] Opened Ankh the application.
+[15/03/2023 10:03:12 AM] Closed Ankh the application.
+[15/03/2023 10:03:36 AM] Opened Ankh the application.
+[15/03/2023 10:08:06 AM] Closed Ankh the application.
+[15/03/2023 10:08:08 AM] Opened Ankh the application.
+[15/03/2023 10:09:10 AM] Closed Ankh the application.
+[15/03/2023 10:11:39 AM] Opened Ankh the application.
+[15/03/2023 10:12:04 AM] Closed Ankh the application.
+[15/03/2023 10:12:26 AM] Opened Ankh the application.
+[15/03/2023 11:58:24 AM] Closed Ankh the application.
+[15/03/2023 6:03:03 PM] Opened Ankh the application.
+[15/03/2023 6:03:41 PM] Closed Ankh the application.
+[15/03/2023 6:03:54 PM] Opened Ankh the application.
+[15/03/2023 6:04:33 PM] Closed Ankh the application.
+[15/03/2023 6:04:36 PM] Opened Ankh the application.
+[15/03/2023 6:04:40 PM] Closed Ankh the application.
+[16/03/2023 2:15:23 PM] Opened Ankh the application.
+[16/03/2023 2:15:31 PM] Closed Ankh the application.
+[16/03/2023 3:33:37 PM] Opened Ankh the application.
+[16/03/2023 3:34:22 PM] Closed Ankh the application.
+[16/03/2023 3:42:15 PM] Opened Ankh the application.
+[16/03/2023 3:42:32 PM] Closed Ankh the application.
+[17/03/2023 2:24:36 PM] Opened Ankh the application.
+[17/03/2023 2:27:55 PM] Opened Ankh the application.
+[17/03/2023 2:29:02 PM] Opened Ankh the application.
+[17/03/2023 2:30:19 PM] Closed Ankh the application.
+[17/03/2023 2:30:23 PM] Opened Ankh the application.
+[17/03/2023 2:32:07 PM] Opened Ankh the application.
+[17/03/2023 2:33:27 PM] Opened Ankh the application.
+[17/03/2023 2:37:05 PM] Opened Ankh the application.
+[17/03/2023 2:37:35 PM] Opened Ankh the application.
+[17/03/2023 2:39:37 PM] Opened Ankh the application.
+[17/03/2023 2:40:38 PM] Opened Ankh the application.
+[17/03/2023 2:41:26 PM] Opened Ankh the application.
+[17/03/2023 2:43:52 PM] Opened Ankh the application.
+[17/03/2023 2:44:49 PM] Opened Ankh the application.
+[17/03/2023 2:45:25 PM] Opened Ankh the application.
+[17/03/2023 2:46:12 PM] Opened Ankh the application.
+[17/03/2023 2:53:56 PM] Opened Ankh the application.
+[17/03/2023 2:54:23 PM] Closed Ankh the application.
+[17/03/2023 2:54:33 PM] Opened Ankh the application.
+[17/03/2023 2:55:12 PM] Closed Ankh the application.
+[17/03/2023 2:56:56 PM] Opened Ankh the application.
+[17/03/2023 3:00:15 PM] Opened Ankh the application.
+[17/03/2023 3:00:34 PM] Opened Ankh the application.
+[17/03/2023 3:00:51 PM] Opened Ankh the application.
+[17/03/2023 3:00:59 PM] Opened Ankh the application.
+[17/03/2023 3:01:19 PM] Closed Ankh the application.
+[17/03/2023 3:01:20 PM] Opened Ankh the application.
+[17/03/2023 3:02:37 PM] Closed Ankh the application.
+[17/03/2023 3:02:50 PM] Opened Ankh the application.
+[17/03/2023 8:25:52 PM] Opened Ankh the application.
+[18/03/2023 8:32:27 AM] Opened Ankh the application.
+[18/03/2023 8:32:46 AM] Closed Ankh the application.
+[18/03/2023 8:33:02 AM] Opened Ankh the application.
+[18/03/2023 8:33:22 AM] Opened Ankh the application.
+[18/03/2023 8:34:34 AM] Opened Ankh the application.
+[18/03/2023 8:35:22 AM] Closed Ankh the application.
+[18/03/2023 8:35:39 AM] Opened Ankh the application.
+[18/03/2023 8:37:03 AM] Opened Ankh the application.
+[18/03/2023 8:38:04 AM] Closed Ankh the application.
+[18/03/2023 8:39:10 AM] Opened Ankh the application.
+[18/03/2023 8:39:24 AM] Closed Ankh the application.
+[18/03/2023 8:40:08 AM] Opened Ankh the application.
+[18/03/2023 8:40:31 AM] Closed Ankh the application.
+[18/03/2023 8:42:48 AM] Opened Ankh the application.
+[18/03/2023 8:42:56 AM] Closed Ankh the application.
+[18/03/2023 8:46:38 AM] Opened Ankh the application.
+[18/03/2023 8:49:24 AM] Closed Ankh the application.
+[18/03/2023 8:49:34 AM] Opened Ankh the application.
+[18/03/2023 8:57:35 AM] Closed Ankh the application.
+[18/03/2023 8:57:37 AM] Opened Ankh the application.
+[18/03/2023 8:57:48 AM] Closed Ankh the application.
+[18/03/2023 8:57:56 AM] Opened Ankh the application.
+[18/03/2023 8:58:00 AM] Closed Ankh the application.
+[18/03/2023 8:59:50 AM] Opened Ankh the application.
+[18/03/2023 8:59:55 AM] Opened Ankh the application.
+[18/03/2023 9:00:05 AM] Opened Ankh the application.
+[18/03/2023 9:00:19 AM] Closed Ankh the application.
+[18/03/2023 9:01:42 AM] Opened Ankh the application.
+[18/03/2023 9:02:09 AM] Opened Ankh the application.
+[18/03/2023 9:02:14 AM] Opened Ankh the application.
+[18/03/2023 9:02:33 AM] Opened Ankh the application.
+[18/03/2023 9:02:38 AM] Closed Ankh the application.
+[18/03/2023 9:02:54 AM] Opened Ankh the application.
+[18/03/2023 9:03:03 AM] Opened Ankh the application.
+[18/03/2023 9:03:36 AM] Opened Ankh the application.
+[18/03/2023 9:03:40 AM] Opened Ankh the application.
+[18/03/2023 9:03:47 AM] Opened Ankh the application.
+[18/03/2023 9:03:57 AM] Opened Ankh the application.
+[18/03/2023 9:04:01 AM] Opened Ankh the application.
+[18/03/2023 9:04:06 AM] Closed Ankh the application.
+[18/03/2023 9:07:45 AM] Opened Ankh the application.
+[18/03/2023 9:08:03 AM] Closed Ankh the application.
+[18/03/2023 9:08:56 AM] Opened Ankh the application.
+[18/03/2023 9:09:05 AM] Opened Ankh the application.
+[18/03/2023 9:09:35 AM] Closed Ankh the application.
+[18/03/2023 9:09:45 AM] Opened Ankh the application.
+[18/03/2023 9:12:40 AM] Opened Ankh the application.
+[18/03/2023 9:12:59 AM] Opened Ankh the application.
+[18/03/2023 9:18:46 AM] Opened Ankh the application.
+[18/03/2023 9:21:39 AM] Opened Ankh the application.
+[18/03/2023 9:34:01 AM] Closed Ankh the application.
+[18/03/2023 9:34:03 AM] Opened Ankh the application.
+[18/03/2023 9:35:19 AM] Opened Ankh the application.
+[18/03/2023 9:36:05 AM] Closed Ankh the application.
+[18/03/2023 9:39:52 AM] Opened Ankh the application.
+[18/03/2023 9:40:07 AM] Opened Ankh the application.
+[18/03/2023 9:54:49 AM] Opened Ankh the application.
+[18/03/2023 9:55:22 AM] Closed Ankh the application.
+[18/03/2023 9:55:29 AM] Opened Ankh the application.
+[18/03/2023 9:55:39 AM] Opened Ankh the application.
+[18/03/2023 9:59:36 AM] Opened Ankh the application.
+[18/03/2023 10:00:54 AM] Closed Ankh the application.
+[18/03/2023 10:05:16 AM] Opened Ankh the application.
+[18/03/2023 10:15:52 AM] Closed Ankh the application.
+[18/03/2023 10:15:53 AM] Opened Ankh the application.
+[18/03/2023 10:16:21 AM] Closed Ankh the application.
+[18/03/2023 10:16:33 AM] Opened Ankh the application.
+[18/03/2023 10:16:50 AM] Closed Ankh the application.
+[18/03/2023 10:18:22 AM] Opened Ankh the application.
+[18/03/2023 10:18:32 AM] Opened Ankh the application.
+[18/03/2023 10:21:38 AM] Closed Ankh the application.
+[18/03/2023 10:27:30 AM] Opened Ankh the application.
+[18/03/2023 10:27:43 AM] Closed Ankh the application.
+[18/03/2023 11:10:27 AM] Opened Ankh the application.
+[18/03/2023 11:10:32 AM] Saved default settings.
+[18/03/2023 11:10:38 AM] Closed Ankh the application.
+[18/03/2023 11:11:51 AM] Opened Ankh the application.
+[18/03/2023 11:11:55 AM] Saved default settings.
+[18/03/2023 11:12:03 AM] Closed Ankh the application.
+[19/03/2023 5:30:01 AM] Opened Ankh the application.
+[19/03/2023 5:33:23 AM] Closed Ankh the application.
+[19/03/2023 5:36:56 AM] Opened Ankh the application.
+[19/03/2023 5:44:49 AM] Closed Ankh the application.
+[19/03/2023 6:40:20 AM] Opened Ankh the application.
+[19/03/2023 7:51:20 AM] Closed Ankh the application.
+[19/03/2023 7:55:03 AM] Opened Ankh the application.
+[19/03/2023 7:55:09 AM] Closed Ankh the application.
+[19/03/2023 7:55:19 AM] Opened Ankh the application.
+[19/03/2023 7:55:32 AM] Closed Ankh the application.
+[19/03/2023 7:56:38 AM] Opened Ankh the application.
+[19/03/2023 7:56:49 AM] Closed Ankh the application.
+[19/03/2023 7:57:45 AM] Opened Ankh the application.
+[19/03/2023 7:57:51 AM] Closed Ankh the application.
+[19/03/2023 7:58:11 AM] Opened Ankh the application.
+[19/03/2023 7:58:16 AM] Closed Ankh the application.
+[19/03/2023 7:58:56 AM] Opened Ankh the application.
+[19/03/2023 7:59:13 AM] Closed Ankh the application.
+[19/03/2023 7:59:39 AM] Opened Ankh the application.
+[19/03/2023 8:00:00 AM] Closed Ankh the application.
+[19/03/2023 8:00:41 AM] Opened Ankh the application.
+[19/03/2023 8:00:54 AM] Closed Ankh the application.
+[19/03/2023 8:01:07 AM] Opened Ankh the application.
+[19/03/2023 8:01:31 AM] Closed Ankh the application.
+[19/03/2023 8:01:53 AM] Opened Ankh the application.
+[19/03/2023 8:02:11 AM] Closed Ankh the application.
+[19/03/2023 8:03:26 AM] Opened Ankh the application.
+[19/03/2023 8:03:48 AM] Closed Ankh the application.
+[19/03/2023 8:05:34 AM] Opened Ankh the application.
+[19/03/2023 8:05:53 AM] Closed Ankh the application.
+[19/03/2023 8:06:10 AM] Opened Ankh the application.
+[19/03/2023 8:06:31 AM] Closed Ankh the application.
+[19/03/2023 8:06:40 AM] Opened Ankh the application.
+[19/03/2023 8:07:04 AM] Closed Ankh the application.
+[19/03/2023 8:09:38 AM] Opened Ankh the application.
+[19/03/2023 8:12:02 AM] Closed Ankh the application.
+[19/03/2023 8:12:18 AM] Opened Ankh the application.
+[19/03/2023 8:15:50 AM] Saved dictionary.
+[19/03/2023 8:16:08 AM] Closed Ankh the application.
+[19/03/2023 8:16:10 AM] Opened Ankh the application.
+[19/03/2023 8:17:05 AM] Saved dictionary as: defaultDictionary2.txt
+[19/03/2023 8:17:33 AM] Closed Ankh the application.
+[19/03/2023 8:17:35 AM] Opened Ankh the application.
+[19/03/2023 8:17:42 AM] Changed default dictionary from settings to: defaultDictionary2.txt
+[19/03/2023 8:17:43 AM] Saved default settings.
+[19/03/2023 8:20:33 AM] Closed Ankh the application.
+[19/03/2023 8:41:02 AM] Opened Ankh the application.
+[19/03/2023 8:42:14 AM] Opened Ankh the application.
+[19/03/2023 8:43:01 AM] Saved dictionary.
+[19/03/2023 8:47:38 AM] Opened Ankh the application.
+[19/03/2023 8:47:52 AM] Saved dictionary.
+[19/03/2023 8:48:33 AM] Saved dictionary.
+[19/03/2023 8:56:39 AM] Opened Ankh the application.
+[19/03/2023 8:56:47 AM] Removed a word with the key {A1}.
+[19/03/2023 8:56:52 AM] Saved dictionary.
+[19/03/2023 8:57:03 AM] Closed Ankh the application.
+[19/03/2023 8:58:47 AM] Opened Ankh the application.
+[19/03/2023 12:01:33 PM] Saved dictionary.
+[19/03/2023 12:01:55 PM] Closed Ankh the application.
+[19/03/2023 12:02:41 PM] Opened Ankh the application.
+[19/03/2023 12:03:27 PM] Closed Ankh the application.
+[19/03/2023 12:03:41 PM] Changed dictionary from: defaultDictionary.txt, to: defaultDictionary2.txt
+[19/03/2023 12:14:04 PM] Changed dictionary from: defaultDictionary.txt, to: defaultDictionary2.txt
+[19/03/2023 12:14:46 PM] Changed dictionary from: defaultDictionary.txt, to: defaultDictionary2.txt
+[19/03/2023 12:16:29 PM] Opened Ankh the application.
+[19/03/2023 12:17:09 PM] Opened Ankh the application.
+[19/03/2023 12:17:37 PM] Opened Ankh the application.
+[19/03/2023 12:18:14 PM] Opened Ankh the application.
+[19/03/2023 12:18:32 PM] Opened Ankh the application.
+[19/03/2023 12:18:55 PM] Closed Ankh the application.
+[19/03/2023 12:22:33 PM] Opened Ankh the application.
+[19/03/2023 12:22:40 PM] Changed default dictionary from settings to: defaultDictionary2.txt
+[19/03/2023 12:23:19 PM] Opened Ankh the application.
+[19/03/2023 12:23:27 PM] Changed dictionary from: defaultDictionary.txt, to: defaultDictionary2.txt
+[19/03/2023 12:23:34 PM] Saved dictionary.
+[19/03/2023 12:24:56 PM] Opened Ankh the application.
+[19/03/2023 12:25:04 PM] Changed dictionary from: defaultDictionary.txt, to: defaultDictionary2.txt
+[19/03/2023 12:25:18 PM] Closed Ankh the application.
+[19/03/2023 12:25:35 PM] Opened Ankh the application.
+[19/03/2023 12:25:44 PM] Changed dictionary from: defaultDictionary.txt, to: defaultDictionary2.txt
+[19/03/2023 12:25:50 PM] Saved dictionary.
+[19/03/2023 12:26:36 PM] Opened Ankh the application.
+[19/03/2023 12:26:43 PM] Changed dictionary from: defaultDictionary.txt, to: defaultDictionary2.txt
+[19/03/2023 12:26:51 PM] Saved dictionary.
+[19/03/2023 12:27:25 PM] Changed dictionary from: defaultDictionary2.txt, to: defaultDictionary2.txt
+[19/03/2023 12:28:49 PM] Saved dictionary.
+[19/03/2023 12:29:06 PM] Changed dictionary from: defaultDictionary2.txt, to: defaultDictionary2.txt
+[19/03/2023 12:31:00 PM] Closed Ankh the application.
+[19/03/2023 12:33:05 PM] Opened Ankh the application.
+[19/03/2023 12:33:12 PM] Changed dictionary from: defaultDictionary.txt, to: defaultDictionary2.txt
+[19/03/2023 12:34:32 PM] Saved dictionary.
+[19/03/2023 12:34:43 PM] Changed dictionary from: defaultDictionary2.txt, to: defaultDictionary2.txt
+[19/03/2023 12:39:00 PM] Opened Ankh the application.
+[19/03/2023 12:39:06 PM] Changed dictionary from: defaultDictionary.txt, to: defaultDictionary2.txt
+[19/03/2023 12:39:19 PM] Saved dictionary.
+[19/03/2023 12:40:58 PM] Changed dictionary from: defaultDictionary.txt, to: defaultDictionary2.txt
+[19/03/2023 12:41:05 PM] Saved dictionary.
+[19/03/2023 12:41:59 PM] Changed dictionary from: defaultDictionary.txt, to: defaultDictionary2.txt
+[19/03/2023 12:42:06 PM] Saved dictionary.
+[19/03/2023 12:42:21 PM] Changed dictionary from: defaultDictionary2.txt, to: defaultDictionary2.txt
+[19/03/2023 12:43:08 PM] Changed dictionary from: defaultDictionary.txt, to: defaultDictionary2.txt
+[19/03/2023 12:43:13 PM] Saved dictionary.
+[19/03/2023 12:43:38 PM] Changed dictionary from: defaultDictionary.txt, to: defaultDictionary2.txt
+[19/03/2023 12:44:54 PM] Saved dictionary.
+[19/03/2023 12:45:30 PM] Changed dictionary from: defaultDictionary.txt, to: defaultDictionary2.txt
+[19/03/2023 12:45:31 PM] Saved dictionary.
+[19/03/2023 12:46:13 PM] Changed dictionary from: defaultDictionary.txt, to: defaultDictionary2.txt
+[19/03/2023 12:46:19 PM] Saved dictionary.
+[19/03/2023 12:47:58 PM] Changed dictionary from: defaultDictionary.txt, to: defaultDictionary2.txt
+[19/03/2023 12:48:08 PM] Saved dictionary.
+[19/03/2023 12:48:36 PM] Saved dictionary.
+[19/03/2023 12:49:32 PM] Opened Ankh the application.
+[19/03/2023 12:49:40 PM] Changed dictionary from: defaultDictionary.txt, to: defaultDictionary2.txt
+[19/03/2023 12:49:48 PM] Saved dictionary.
+[19/03/2023 12:57:54 PM] Saved dictionary.
+[19/03/2023 12:58:14 PM] Saved dictionary.
+[19/03/2023 2:43:39 PM] Opened Ankh the application.
+[19/03/2023 2:43:48 PM] Changed dictionary from: defaultDictionary.txt, to: defaultDictionary2.txt
+[19/03/2023 2:43:55 PM] Saved dictionary.
+[19/03/2023 2:44:10 PM] Closed Ankh the application.
+[19/03/2023 3:07:12 PM] Opened Ankh the application.
+[19/03/2023 3:07:34 PM] Closed Ankh the application.
+[19/03/2023 3:17:19 PM] Opened Ankh the application.
+[19/03/2023 3:18:37 PM] Closed Ankh the application.
+[19/03/2023 3:19:03 PM] Opened Ankh the application.
+[19/03/2023 3:20:11 PM] Closed Ankh the application.
+[19/03/2023 4:15:43 PM] Opened Ankh the application.
+[19/03/2023 4:15:59 PM] Closed Ankh the application.
+[19/03/2023 4:19:52 PM] Opened Ankh the application.
+[19/03/2023 4:20:01 PM] Changed dictionary from: defaultDictionary.txt, to: defaultDictionary2.txt
+[19/03/2023 4:20:07 PM] Saved dictionary.
+[19/03/2023 4:20:28 PM] Saved dictionary.
+[19/03/2023 4:20:58 PM] Closed Ankh the application.
+[19/03/2023 4:26:07 PM] Opened Ankh the application.
+[19/03/2023 4:26:14 PM] Changed dictionary from: defaultDictionary.txt, to: defaultDictionary2.txt
+[19/03/2023 4:26:18 PM] Saved dictionary.
+[19/03/2023 4:26:40 PM] Saved dictionary as: defaultDictionary3.txt
+[19/03/2023 4:28:01 PM] Saved dictionary as: defaultDictionary4.txt
+[19/03/2023 4:28:40 PM] Saved dictionary.
+[19/03/2023 4:28:48 PM] Saved dictionary as: defaultDictionary5.txt
+[19/03/2023 4:35:28 PM] Opened Ankh the application.
+[19/03/2023 4:35:37 PM] Changed dictionary from: defaultDictionary.txt, to: defaultDictionary5.txt
+[19/03/2023 4:35:42 PM] Saved dictionary.
+[19/03/2023 4:35:52 PM] Saved dictionary as: defaultDictionary6.txt
+[19/03/2023 4:40:25 PM] Opened Ankh the application.
+[19/03/2023 4:40:33 PM] Changed dictionary from: defaultDictionary.txt, to: defaultDictionary6.txt
+[19/03/2023 4:40:36 PM] Saved dictionary.
+[19/03/2023 4:40:44 PM] Saved dictionary as: defaultDictionary7.txt
+[19/03/2023 4:41:43 PM] Opened Ankh the application.
+[19/03/2023 4:41:50 PM] Changed dictionary from: defaultDictionary.txt, to: defaultDictionary7.txt
+[19/03/2023 4:41:54 PM] Saved dictionary.
+[19/03/2023 4:42:01 PM] Saved dictionary as: defaultDictionary8.txt
+[19/03/2023 4:42:14 PM] Saved dictionary.
+[19/03/2023 4:43:45 PM] Opened Ankh the application.
+[19/03/2023 4:43:52 PM] Changed dictionary from: defaultDictionary.txt, to: defaultDictionary8.txt
+[19/03/2023 4:43:57 PM] Saved dictionary.
+[19/03/2023 4:44:03 PM] Saved dictionary as: defaultDictionary9.txt
+[19/03/2023 4:46:30 PM] Opened Ankh the application.
+[19/03/2023 4:46:38 PM] Changed dictionary from: defaultDictionary.txt, to: defaultDictionary9.txt
+[19/03/2023 4:46:45 PM] Saved dictionary.
+[19/03/2023 4:47:14 PM] Opened Ankh the application.
+[19/03/2023 4:47:25 PM] Changed dictionary from: defaultDictionary.txt, to: defaultDictionary9.txt
+[19/03/2023 4:47:31 PM] Saved dictionary.
+[19/03/2023 4:47:37 PM] Saved dictionary.
+[19/03/2023 4:47:53 PM] Saved dictionary.
+[19/03/2023 4:48:20 PM] Opened Ankh the application.
+[19/03/2023 4:48:28 PM] Changed dictionary from: defaultDictionary.txt, to: defaultDictionary9.txt
+[19/03/2023 4:48:35 PM] Saved dictionary.
+[19/03/2023 4:48:43 PM] Saved dictionary.
+[20/03/2023 9:17:25 AM] Opened Ankh the application.
+[20/03/2023 9:22:51 AM] Opened Ankh the application.
+[20/03/2023 9:25:15 AM] Opened Ankh the application.
+[20/03/2023 9:28:00 AM] Opened Ankh the application.
+[20/03/2023 9:31:08 AM] Closed Ankh the application.
+[20/03/2023 9:32:31 AM] Opened Ankh the application.
+[20/03/2023 9:32:58 AM] Closed Ankh the application.
+[20/03/2023 9:33:24 AM] Opened Ankh the application.
+[20/03/2023 9:35:39 AM] Closed Ankh the application.
+[20/03/2023 9:35:55 AM] Opened Ankh the application.
+[20/03/2023 9:37:15 AM] Closed Ankh the application.
+[20/03/2023 9:38:52 AM] Opened Ankh the application.
+[20/03/2023 9:39:19 AM] Closed Ankh the application.
+[20/03/2023 9:39:51 AM] Opened Ankh the application.
+[20/03/2023 9:41:14 AM] Opened Ankh the application.
+[20/03/2023 9:43:56 AM] Opened Ankh the application.
+[20/03/2023 10:28:19 AM] Opened Ankh the application.
+[20/03/2023 10:29:14 AM] Opened Ankh the application.
+[20/03/2023 10:30:07 AM] Opened Ankh the application.
+[20/03/2023 10:30:43 AM] Opened Ankh the application.
+[20/03/2023 10:32:17 AM] Closed Ankh the application.
+[20/03/2023 10:32:51 AM] Opened Ankh the application.
+[20/03/2023 10:33:20 AM] Saved dictionary.
+[20/03/2023 10:33:26 AM] Saved dictionary.
+[20/03/2023 10:33:42 AM] Saved dictionary.
+[20/03/2023 10:33:47 AM] Changed dictionary from: defaultDictionary.txt, to: defaultDictionary2.txt
+[20/03/2023 10:33:50 AM] Saved default settings.
+[20/03/2023 10:33:52 AM] Closed Ankh the application.
+[20/03/2023 10:33:57 AM] Opened Ankh the application.
+[20/03/2023 10:38:56 AM] Opened Ankh the application.
+[20/03/2023 10:39:10 AM] Saved dictionary.
+[20/03/2023 10:39:16 AM] Changed dictionary from: defaultDictionary.txt, to: defaultDictionary2.txt
+[20/03/2023 10:39:20 AM] Saved default settings.
+[20/03/2023 10:39:25 AM] Closed Ankh the application.
+[20/03/2023 10:39:34 AM] Opened Ankh the application.
+[20/03/2023 10:40:15 AM] Closed Ankh the application.
+[20/03/2023 10:41:53 AM] Opened Ankh the application.
+[20/03/2023 10:42:06 AM] Saved dictionary.
+[20/03/2023 10:42:13 AM] Closed Ankh the application.
+[20/03/2023 10:43:02 AM] Opened Ankh the application.
+[20/03/2023 10:43:24 AM] Saved dictionary.
+[20/03/2023 10:43:30 AM] Saved default settings.
+[20/03/2023 10:43:32 AM] Closed Ankh the application.
+[20/03/2023 10:43:39 AM] Opened Ankh the application.
+[20/03/2023 10:43:59 AM] Saved dictionary.
+[20/03/2023 10:44:03 AM] Closed Ankh the application.
+[20/03/2023 10:44:06 AM] Opened Ankh the application.
+[20/03/2023 10:44:13 AM] Closed Ankh the application.
+[20/03/2023 10:44:25 AM] Opened Ankh the application.
+[20/03/2023 10:45:21 AM] Closed Ankh the application.
+[20/03/2023 10:46:50 AM] Opened Ankh the application.
+[20/03/2023 10:47:08 AM] Closed Ankh the application.
+[20/03/2023 11:38:03 AM] Opened Ankh the application.
+[20/03/2023 11:38:47 AM] Saved dictionary.
+[20/03/2023 11:39:42 AM] Closed Ankh the application.
+[20/03/2023 2:54:33 PM] Opened Ankh the application.
+[20/03/2023 2:55:03 PM] Saved dictionary.
+[20/03/2023 2:59:20 PM] Opened Ankh the application.
+[20/03/2023 2:59:25 PM] Saved dictionary.
+[20/03/2023 2:59:36 PM] Saved dictionary.
+[20/03/2023 2:59:49 PM] Changed dictionary from: defaultDictionary4.txt, to: defaultDictionary3.txt
+[20/03/2023 3:05:25 PM] Opened Ankh the application.
+[20/03/2023 3:05:32 PM] Closed Ankh the application.
+[20/03/2023 3:27:12 PM] Opened Ankh the application.
+[20/03/2023 3:29:29 PM] Opened Ankh the application.
+[20/03/2023 3:29:35 PM] Removed the following from history: [20/03/2023 11:39:01 AM]=> Translated from English to Hieroglyph => man : 𓅷 𓇋 𓇋     
+
+[20/03/2023 3:29:42 PM] Removed the following from history: [20/03/2023 10:47:07 AM]=> Translated from الهيروغليفية to الإنجليزية => 𓊃 𓎡 𓂋 𓀭 𓇋 𓅱 𓅮 𓄿 𓇋 𓇋 𓀀 𓌸 𓂋 𓏏    : Sokar (god) welcome my love
+
+[20/03/2023 3:29:54 PM] Removed the following from history: [20/03/2023 10:45:12 AM]=> Translated from الإنجليزية to الهيروغليفية => sokar is my wife : 𓊃 𓎡 𓂋 𓀭   𓇋 𓅱   𓅮 𓄿 𓇋 𓇋 𓀀   𓌸 𓂋 𓏏     
+
+[20/03/2023 3:30:50 PM] Opened Ankh the application.
+[20/03/2023 3:31:39 PM] Opened Ankh the application.
+[20/03/2023 3:31:45 PM] Closed Ankh the application.
+[20/03/2023 3:32:41 PM] Opened Ankh the application.
+[20/03/2023 3:32:51 PM] Removed the following from history: [20/03/2023 10:32:14 AM]=> Translated from Gardners code to Hieroglyph => O34 V31 D21 A40 D21 N33A Z1 G40 G1 M17 M17 A1 D2 Z1 D1 Z1 G47 Y1 F34 Z1 U7 D21 M17 M3 D21 N33A Z1  : 𓊃 𓎡 𓂋 𓀭 𓂋 𓈓 𓏤 𓅮 𓄿 𓇋 𓇋 𓀀 𓁷 𓏤 𓁶 𓏤 𓅷 𓏛 𓄣 𓏤 𓌻 𓂋 𓇋 𓆱 𓂋 𓈓 𓏤 
+[20/03/2023 3:32:53 PM] Removed the following from history: [20/03/2023 10:32:04 AM]=> Translated from Gardners code to Gardners code => O34 V31 D21 A40 D21 N33A Z1 G40 G1 M17 M17 A1 D2 Z1 D1 Z1 G47 Y1 F34 Z1 U7 D21 M17 M3 D21 N33A Z1  : O34 V31 D21 A40 D21 N33A Z1 G40 G1 M17 M17 A1 D2 Z1 D1 Z1 G47 Y1 F34 Z1 U7 D21 M17 M3 D21 N33A Z1 
+[20/03/2023 3:33:36 PM] Opened Ankh the application.
+[20/03/2023 3:33:44 PM] Removed the following from history: [20/03/2023 10:31:59 AM]=> Translated from Gardners code to English => O34 V31 D21 A40 D21 N33A Z1 G40 G1 M17 M17 A1 D2 Z1 D1 Z1 G47 Y1 F34 Z1 U7 D21 M17 M3 D21 N33A Z1  : Sokar (god) fractions my on behalf of able sounding - pole fractions
+[20/03/2023 3:33:46 PM] Removed the following from history: [20/03/2023 10:31:53 AM]=> Translated from Transliteration to Gardners code => skr  r  pAy .i  tp tA  mri  r   : O34 V31 D21 A40  D21 N33A Z1  G40 G1 M17 M17 A1  D2 Z1 D1 Z1  G47 Y1 F34 Z1  U7 D21 M17 M3  D21 N33A Z1  
+[20/03/2023 3:33:49 PM] Closed Ankh the application.
+[21/03/2023 1:19:16 PM] Opened Ankh the application.
+[21/03/2023 1:19:31 PM] Closed Ankh the application.
+[21/03/2023 1:25:09 PM] Opened Ankh the application.
+[21/03/2023 1:25:13 PM] Closed Ankh the application.
+[21/03/2023 1:27:51 PM] Opened Ankh the application.
+[21/03/2023 1:28:14 PM] Closed Ankh the application.
+[21/03/2023 2:42:52 PM] Opened Ankh the application.
+[21/03/2023 2:43:01 PM] Saved default settings.
+[21/03/2023 2:43:22 PM] Closed Ankh the application.
+[21/03/2023 2:45:39 PM] Opened Ankh the application.
+[21/03/2023 2:47:00 PM] Opened Ankh the application.
+[21/03/2023 2:47:51 PM] Opened Ankh the application.
+[21/03/2023 2:49:21 PM] Closed Ankh the application.
+[21/03/2023 4:05:34 PM] Opened Ankh the application.
+[21/03/2023 4:06:19 PM] Closed Ankh the application.
+[21/03/2023 10:01:41 PM] Opened Ankh the application.
+[22/03/2023 1:44:40 AM] Closed Ankh the application.
+[22/03/2023 1:44:49 AM] Opened Ankh the application.
+[22/03/2023 1:58:36 AM] Closed Ankh the application.
+[22/03/2023 4:18:17 AM] Opened Ankh the application.
+[22/03/2023 4:20:04 AM] Closed Ankh the application.
+[22/03/2023 5:39:59 AM] Opened Ankh the application.
+[22/03/2023 5:45:23 AM] Closed Ankh the application.
+[22/03/2023 6:48:56 AM] Opened Ankh the application.
+[22/03/2023 6:49:16 AM] Saved default settings.
+[22/03/2023 11:47:04 AM] Closed Ankh the application.
+[22/03/2023 11:47:06 AM] Opened Ankh the application.
+[22/03/2023 11:47:14 AM] Closed Ankh the application.
+[22/03/2023 11:52:47 AM] Opened Ankh the application.
+[22/03/2023 11:52:58 AM] Opened Ankh the application.
+[22/03/2023 11:53:33 AM] Opened Ankh the application.
+[22/03/2023 11:53:49 AM] Closed Ankh the application.
+[22/03/2023 11:54:40 AM] Opened Ankh the application.
+[22/03/2023 11:55:05 AM] Closed Ankh the application.
+[22/03/2023 11:55:09 AM] Opened Ankh the application.
+[22/03/2023 11:55:23 AM] Closed Ankh the application.
+[22/03/2023 11:55:34 AM] Opened Ankh the application.
+[22/03/2023 11:55:46 AM] Saved default settings.
+[22/03/2023 11:56:25 AM] Closed Ankh the application.
+[22/03/2023 1:41:51 PM] Opened Ankh the application.
+[22/03/2023 1:42:27 PM] Opened Ankh the application.
+[22/03/2023 1:42:43 PM] Closed Ankh the application.
+[22/03/2023 1:44:13 PM] Opened Ankh the application.
+[22/03/2023 1:45:29 PM] Closed Ankh the application.
+[22/03/2023 1:46:11 PM] Opened Ankh the application.
+[22/03/2023 1:47:26 PM] Saved default settings.
+[22/03/2023 1:47:27 PM] Closed Ankh the application.
+[22/03/2023 1:47:32 PM] Opened Ankh the application.
+[22/03/2023 1:48:34 PM] Saved default settings.
+[22/03/2023 1:51:05 PM] Opened Ankh the application.
+[22/03/2023 1:51:42 PM] Closed Ankh the application.
+[22/03/2023 1:58:24 PM] Opened Ankh the application.
+[22/03/2023 1:59:00 PM] Opened Ankh the application.
+[22/03/2023 1:59:12 PM] Closed Ankh the application.
+[22/03/2023 2:47:12 PM] Opened Ankh the application.
+[22/03/2023 2:47:25 PM] Closed Ankh the application.
+[22/03/2023 2:49:46 PM] Opened Ankh the application.
+[22/03/2023 2:49:52 PM] Closed Ankh the application.
+[22/03/2023 2:50:11 PM] Opened Ankh the application.
+[22/03/2023 2:52:32 PM] Closed Ankh the application.
+[22/03/2023 2:53:05 PM] Opened Ankh the application.
+[22/03/2023 2:53:39 PM] Closed Ankh the application.
+[24/03/2023 2:46:34 AM] Opened Ankh the application.
+[24/03/2023 2:46:39 AM] Closed Ankh the application.
+[24/03/2023 2:49:51 AM] Opened Ankh the application.
+[24/03/2023 2:49:57 AM] Closed Ankh the application.
+[24/03/2023 2:55:23 AM] Opened Ankh the application.
+[24/03/2023 2:55:36 AM] Closed Ankh the application.
+[24/03/2023 2:56:09 AM] Opened Ankh the application.
+[24/03/2023 2:56:24 AM] Closed Ankh the application.
+[24/03/2023 3:03:45 AM] Opened Ankh the application.
+[24/03/2023 3:03:49 AM] Closed Ankh the application.
+[24/03/2023 3:05:46 AM] Opened Ankh the application.
+[24/03/2023 3:07:03 AM] Closed Ankh the application.
+[24/03/2023 3:28:20 AM] Opened Ankh the application.
+[24/03/2023 6:38:48 AM] Closed Ankh the application.
+[24/03/2023 8:27:25 PM] Opened Ankh the application.
+[24/03/2023 9:16:20 PM] Closed Ankh the application.
+[24/03/2023 9:28:25 PM] Opened Ankh the application.
+[24/03/2023 9:28:52 PM] Opened Ankh the application.
+[24/03/2023 9:29:41 PM] Opened Ankh the application.
+[24/03/2023 9:30:34 PM] Closed Ankh the application.
+[24/03/2023 9:37:17 PM] Opened Ankh the application.
+[24/03/2023 9:37:24 PM] Closed Ankh the application.
+[24/03/2023 9:37:42 PM] Opened Ankh the application.
+[24/03/2023 9:38:41 PM] Closed Ankh the application.
+[24/03/2023 9:39:15 PM] Opened Ankh the application.
+[24/03/2023 9:40:12 PM] Closed Ankh the application.
+[24/03/2023 9:40:15 PM] Opened Ankh the application.
+[24/03/2023 9:41:07 PM] Closed Ankh the application.
+[24/03/2023 9:44:15 PM] Opened Ankh the application.
+[24/03/2023 9:44:21 PM] Closed Ankh the application.
+[24/03/2023 9:44:33 PM] Opened Ankh the application.
+[24/03/2023 9:45:01 PM] Closed Ankh the application.
+[24/03/2023 9:45:24 PM] Opened Ankh the application.
+[24/03/2023 9:45:52 PM] Closed Ankh the application.
+[24/03/2023 9:46:28 PM] Opened Ankh the application.
+[24/03/2023 9:48:09 PM] Closed Ankh the application.
+[24/03/2023 9:57:33 PM] Opened Ankh the application.
+[24/03/2023 9:57:52 PM] Closed Ankh the application.
+[24/03/2023 10:03:07 PM] Opened Ankh the application.
+[24/03/2023 10:04:03 PM] Closed Ankh the application.
+[25/03/2023 1:15:05 AM] Opened Ankh the application.
+[25/03/2023 1:15:20 AM] Closed Ankh the application.
+[25/03/2023 5:57:32 AM] Opened Ankh the application.
+[25/03/2023 5:58:19 AM] Closed Ankh the application.
+[25/03/2023 5:58:26 AM] Opened Ankh the application.
+[25/03/2023 5:58:38 AM] Closed Ankh the application.
+[25/03/2023 6:00:37 AM] Opened Ankh the application.
+[25/03/2023 6:00:43 AM] Closed Ankh the application.
+[25/03/2023 6:00:55 AM] Opened Ankh the application.
+[25/03/2023 6:01:45 AM] Closed Ankh the application.
+[26/03/2023 3:11:31 AM] Opened Ankh the application.
+[26/03/2023 3:16:42 AM] Closed Ankh the application.
+[26/03/2023 3:33:11 AM] Opened Ankh the application.
+[26/03/2023 3:33:32 AM] Closed Ankh the application.
+[05/04/2023 1:23:54 AM] Opened Ankh the application.
+[05/04/2023 1:26:21 AM] Closed Ankh the application.
+[05/04/2023 1:26:35 AM] Opened Ankh the application.
+[05/04/2023 1:28:38 AM] Closed Ankh the application.
+[05/04/2023 9:10:49 AM] Opened Ankh the application.
+[05/04/2023 9:10:55 AM] Closed Ankh the application.
+[05/04/2023 9:11:25 AM] Opened Ankh the application.
+[05/04/2023 9:20:05 AM] Closed Ankh the application.
+[05/04/2023 9:20:12 AM] Opened Ankh the application.
+[05/04/2023 9:20:42 AM] Saved default settings.
+[05/04/2023 9:20:43 AM] Closed Ankh the application.
+[05/04/2023 9:20:48 AM] Opened Ankh the application.
+[05/04/2023 9:21:04 AM] Closed Ankh the application.
+[05/04/2023 9:22:19 AM] Opened Ankh the application.
+[05/04/2023 9:22:23 AM] Closed Ankh the application.
+[05/04/2023 9:22:52 AM] Opened Ankh the application.
+[05/04/2023 9:25:16 AM] Closed Ankh the application.
+[06/04/2023 5:23:48 AM] Opened Ankh the application.
+[06/04/2023 5:25:15 AM] Closed Ankh the application.
+[06/04/2023 5:26:31 AM] Opened Ankh the application.
+[06/04/2023 5:28:32 AM] Closed Ankh the application.
+[06/04/2023 5:28:36 AM] Opened Ankh the application.
+[06/04/2023 5:28:46 AM] Closed Ankh the application.
+[06/04/2023 5:30:00 AM] Opened Ankh the application.
+[06/04/2023 5:35:11 AM] Opened Ankh the application.
+[06/04/2023 5:37:19 AM] Opened Ankh the application.
+[06/04/2023 5:37:30 AM] Closed Ankh the application.
+[06/04/2023 5:42:03 AM] Opened Ankh the application.
+[06/04/2023 5:42:09 AM] Closed Ankh the application.
+[06/04/2023 5:42:33 AM] Opened Ankh the application.
+[06/04/2023 5:42:53 AM] Closed Ankh the application.
+[06/04/2023 5:43:03 AM] Opened Ankh the application.
+[06/04/2023 5:43:15 AM] Closed Ankh the application.
+[06/04/2023 5:43:21 AM] Opened Ankh the application.
+[06/04/2023 5:43:27 AM] Closed Ankh the application.
+[06/04/2023 5:43:50 AM] Opened Ankh the application.
+[06/04/2023 5:43:57 AM] Closed Ankh the application.
+[06/04/2023 5:48:45 AM] Opened Ankh the application.
+[06/04/2023 5:48:49 AM] Closed Ankh the application.
+[06/04/2023 5:49:10 AM] Opened Ankh the application.
+[06/04/2023 5:50:59 AM] Closed Ankh the application.
+[06/04/2023 5:51:02 AM] Opened Ankh the application.
+[06/04/2023 5:51:26 AM] Closed Ankh the application.
+[06/04/2023 5:51:37 AM] Opened Ankh the application.
+[06/04/2023 5:51:43 AM] Closed Ankh the application.
+[06/04/2023 5:51:51 AM] Opened Ankh the application.
+[06/04/2023 5:52:03 AM] Closed Ankh the application.
+[06/04/2023 5:52:54 AM] Opened Ankh the application.
+[06/04/2023 5:59:45 AM] Closed Ankh the application.
+[06/04/2023 5:59:59 AM] Opened Ankh the application.
+[06/04/2023 6:00:04 AM] Closed Ankh the application.
+[06/04/2023 6:00:17 AM] Opened Ankh the application.
+[06/04/2023 6:01:06 AM] Closed Ankh the application.
+[06/04/2023 6:01:14 AM] Opened Ankh the application.
+[06/04/2023 6:01:52 AM] Closed Ankh the application.
+[06/04/2023 6:02:08 AM] Opened Ankh the application.
+[06/04/2023 6:02:16 AM] Closed Ankh the application.
+[06/04/2023 6:02:23 AM] Opened Ankh the application.
+[06/04/2023 6:02:28 AM] Closed Ankh the application.
+[06/04/2023 6:02:35 AM] Opened Ankh the application.
+[06/04/2023 6:14:44 AM] Opened Ankh the application.
+[06/04/2023 6:19:35 AM] Closed Ankh the application.
+[07/04/2023 6:11:19 AM] Opened Ankh the application.
+[07/04/2023 6:11:31 AM] Saved default settings.
+[07/04/2023 6:14:47 AM] Closed Ankh the application.
+[10/04/2023 9:21:34 AM] Opened Ankh the application.
+[10/04/2023 9:21:59 AM] Closed Ankh the application.
+[10/04/2023 9:25:20 AM] Opened Ankh the application.
+[10/04/2023 9:26:15 AM] Closed Ankh the application.
+[12/04/2023 6:20:07 AM] Opened Ankh the application.
+[12/04/2023 6:20:36 AM] Closed Ankh the application.
+[12/04/2023 6:28:44 AM] Opened Ankh the application.
+[12/04/2023 6:30:13 AM] Opened Ankh the application.
+[12/04/2023 6:32:49 AM] Closed Ankh the application.
+[12/04/2023 6:41:51 AM] Opened Ankh the application.
+[12/04/2023 6:42:31 AM] Closed Ankh the application.
+[12/04/2023 8:43:50 AM] Opened Ankh the application.
+[12/04/2023 8:44:11 AM] Closed Ankh the application.
+[13/04/2023 2:15:14 AM] Opened Ankh the application.
+[13/04/2023 2:15:30 AM] Closed Ankh the application.
+[13/04/2023 2:15:44 AM] Opened Ankh the application.
+[13/04/2023 2:20:06 AM] Closed Ankh the application.
+[13/04/2023 8:20:11 PM] Opened Ankh the application.
+[13/04/2023 8:21:45 PM] Opened Ankh the application.
+[13/04/2023 8:22:19 PM] Opened Ankh the application.
+[13/04/2023 8:22:24 PM] Closed Ankh the application.
+[13/04/2023 8:22:54 PM] Opened Ankh the application.
+[13/04/2023 8:23:22 PM] Closed Ankh the application.
+[13/04/2023 8:23:52 PM] Opened Ankh the application.
+[13/04/2023 8:24:27 PM] Closed Ankh the application.
+[13/04/2023 8:24:41 PM] Opened Ankh the application.
+[13/04/2023 8:24:48 PM] Closed Ankh the application.
+[13/04/2023 8:25:03 PM] Opened Ankh the application.
+[13/04/2023 8:25:09 PM] Closed Ankh the application.
+[13/04/2023 8:25:22 PM] Opened Ankh the application.
+[13/04/2023 8:25:28 PM] Closed Ankh the application.
+[13/04/2023 8:25:40 PM] Opened Ankh the application.
+[13/04/2023 8:26:22 PM] Opened Ankh the application.
+[13/04/2023 8:28:03 PM] Opened Ankh the application.
+[13/04/2023 8:30:17 PM] Opened Ankh the application.
+[13/04/2023 8:32:06 PM] Opened Ankh the application.
+[13/04/2023 8:34:48 PM] Saved default settings.
+[13/04/2023 8:34:54 PM] Opened Ankh the application.
+[13/04/2023 8:35:31 PM] Saved default settings.
+[13/04/2023 8:35:35 PM] Closed Ankh the application.
+[13/04/2023 8:35:43 PM] Opened Ankh the application.
+[13/04/2023 8:38:02 PM] Opened Ankh the application.
+[13/04/2023 8:42:02 PM] Opened Ankh the application.
+[13/04/2023 8:47:29 PM] Opened Ankh the application.
+[13/04/2023 8:47:58 PM] Opened Ankh the application.
+[13/04/2023 8:48:14 PM] Opened Ankh the application.
+[13/04/2023 8:50:20 PM] Opened Ankh the application.
+[13/04/2023 8:50:29 PM] Closed Ankh the application.
+[13/04/2023 8:55:42 PM] Opened Ankh the application.
+[13/04/2023 8:56:25 PM] Opened Ankh the application.
+[13/04/2023 8:56:37 PM] Saved dictionary.
+[13/04/2023 8:57:05 PM] Added a word with a single meaning with key: {a}.
+[13/04/2023 8:57:44 PM] Opened Ankh the application.
+[13/04/2023 8:57:58 PM] Added a word with multiple meanings with key: {a}.
+[13/04/2023 8:58:14 PM] Removed a word with the key {a}.
+[13/04/2023 8:58:16 PM] Saved dictionary.
+[13/04/2023 8:58:24 PM] Saved dictionary.
+[13/04/2023 8:58:58 PM] Removed the following from history: [12/03/2023 6:01:12 AM]=> Translated from English to Hieroglyph => greetings : 𓋴 𓈖 𓃀 𓃀     
+[13/04/2023 9:01:29 PM] Opened Ankh the application.
+[13/04/2023 9:02:34 PM] Changed default dictionary from settings to: defaultDictionary2.txt
+[13/04/2023 9:02:40 PM] Saved default settings.
+[13/04/2023 9:03:21 PM] Closed Ankh the application.
+[13/04/2023 9:05:20 PM] Opened Ankh the application.
+[13/04/2023 9:05:45 PM] Opened Ankh the application.
+[13/04/2023 9:09:46 PM] Saved default settings.
+[13/04/2023 9:09:51 PM] Changed default dictionary from settings to: defaultDictionary.txt
+[13/04/2023 9:09:52 PM] Saved default settings.
+[13/04/2023 9:09:56 PM] Removed the following from history: [12/03/2023 6:01:39 AM]=> Translated from English to Hieroglyph => greetings man : 𓋴 𓈖 𓃀 𓃀   𓅷 𓇋 𓇋     
+[13/04/2023 9:12:08 PM] Opened Ankh the application.
+[13/04/2023 9:12:27 PM] Closed Ankh the application.
+[13/04/2023 9:13:12 PM] Opened Ankh the application.
+[13/04/2023 9:13:32 PM] Closed Ankh the application.
+[13/04/2023 9:14:40 PM] Opened Ankh the application.
+[13/04/2023 9:16:50 PM] Opened Ankh the application.
+[13/04/2023 9:18:52 PM] Opened Ankh the application.
+[13/04/2023 9:19:06 PM] Closed Ankh the application.
+[13/04/2023 9:19:26 PM] Opened Ankh the application.
+[13/04/2023 9:20:11 PM] Closed Ankh the application.
+[13/04/2023 9:21:55 PM] Opened Ankh the application.
+[13/04/2023 9:25:07 PM] Opened Ankh the application.
+[13/04/2023 9:25:30 PM] Opened Ankh the application.
+[13/04/2023 9:28:55 PM] Opened Ankh the application.
+[13/04/2023 9:29:39 PM] Closed Ankh the application.
+[13/04/2023 9:29:56 PM] Opened Ankh the application.
+[13/04/2023 9:30:13 PM] Changed dictionary from: defaultDictionary.txt, to: defaultDictionary4.txt
+[13/04/2023 9:30:23 PM] Changed dictionary from: defaultDictionary4.txt, to: defaultDictionary.txt
+[13/04/2023 9:30:30 PM] Closed Ankh the application.
+[13/04/2023 9:31:31 PM] Opened Ankh the application.
+[13/04/2023 9:32:32 PM] Closed Ankh the application.
+[14/04/2023 7:20:11 AM] Opened Ankh the application.
+[14/04/2023 7:20:39 AM] Closed Ankh the application.
+[16/04/2023 5:37:48 PM] Opened Ankh the application.
+[16/04/2023 5:38:15 PM] Closed Ankh the application.
+[17/04/2023 4:20:15 AM] Opened Ankh the application.
+[18/04/2023 1:24:58 AM] Closed Ankh the application.
+[18/04/2023 9:39:45 PM] Opened Ankh the application.
+[18/04/2023 9:39:55 PM] Saved dictionary.
+[18/04/2023 9:40:13 PM] Saved dictionary.
+[18/04/2023 9:43:26 PM] Opened Ankh the application.
+[18/04/2023 9:44:50 PM] Opened Ankh the application.
+[18/04/2023 9:44:59 PM] Saved dictionary.
+[18/04/2023 9:45:05 PM] Saved dictionary.
+[18/04/2023 9:45:31 PM] Saved dictionary.
+[18/04/2023 9:45:46 PM] Saved dictionary.
+[18/04/2023 9:45:51 PM] Closed Ankh the application.
+[18/04/2023 9:50:41 PM] Opened Ankh the application.
+[18/04/2023 9:50:47 PM] Closed Ankh the application.
+[18/04/2023 9:50:51 PM] Opened Ankh the application.
+[18/04/2023 9:51:49 PM] Closed Ankh the application.
+[19/04/2023 11:14:34 PM] Opened Ankh the application.
+[19/04/2023 11:14:44 PM] Saved default settings.
+[19/04/2023 11:14:44 PM] Closed Ankh the application.
+[19/04/2023 11:14:53 PM] Opened Ankh the application.
+[19/04/2023 11:36:21 PM] Opened Ankh the application.
+[19/04/2023 11:43:45 PM] Saved dictionary.
+[19/04/2023 11:43:58 PM] Saved dictionary.
+[19/04/2023 11:45:02 PM] Added a word with a single meaning with key: {A1 A2 A3}.
+[19/04/2023 11:45:36 PM] Saved dictionary.
+[19/04/2023 11:46:36 PM] Removed a word with the key {A1 A2 A3}.
+[19/04/2023 11:46:38 PM] Saved dictionary.
+[19/04/2023 11:47:12 PM] Removed the following from history: [19/04/2023 11:45:29 PM]=> Translated from Hieroglyph to English => 𓀀 𓀁 𓀂  : I drink
+[19/04/2023 11:47:20 PM] Removed the following from history: [19/04/2023 11:43:40 PM]=> Translated from Hieroglyph to English => 𓀁  : drink
+[19/04/2023 11:50:33 PM] Saved default settings.
+[20/04/2023 12:00:06 AM] Closed Ankh the application.
+[20/04/2023 12:14:36 AM] Opened Ankh the application.
+[20/04/2023 12:19:53 AM] Closed Ankh the application.
+[20/04/2023 3:45:40 AM] Opened Ankh the application.
+[20/04/2023 3:47:40 AM] Opened Ankh the application.
+[20/04/2023 3:48:18 AM] Opened Ankh the application.
+[20/04/2023 3:49:04 AM] Opened Ankh the application.
+[20/04/2023 3:49:30 AM] Closed Ankh the application.
+[21/04/2023 2:20:38 AM] Opened Ankh the application.
+[21/04/2023 3:03:31 AM] Opened Ankh the application.
+[21/04/2023 3:03:50 AM] Closed Ankh the application.
+[21/04/2023 3:04:19 AM] Opened Ankh the application.
+[21/04/2023 3:07:10 AM] Closed Ankh the application.
+[21/04/2023 3:11:24 AM] Opened Ankh the application.
+[21/04/2023 3:11:38 AM] Closed Ankh the application.
+[21/04/2023 3:12:10 AM] Opened Ankh the application.
+[21/04/2023 3:12:27 AM] Closed Ankh the application.
+[21/04/2023 3:25:30 AM] Opened Ankh the application.
+[21/04/2023 3:26:08 AM] Closed Ankh the application.
+[21/04/2023 3:27:35 AM] Opened Ankh the application.
+[21/04/2023 3:28:23 AM] Opened Ankh the application.
+[21/04/2023 3:29:45 AM] Opened Ankh the application.
+[21/04/2023 3:39:09 AM] Opened Ankh the application.
+[21/04/2023 3:40:30 AM] Opened Ankh the application.
+[21/04/2023 3:42:45 AM] Opened Ankh the application.
+[21/04/2023 3:43:02 AM] Closed Ankh the application.
+[21/04/2023 3:43:32 AM] Opened Ankh the application.
+[21/04/2023 3:45:05 AM] Opened Ankh the application.
+[21/04/2023 3:45:17 AM] Opened Ankh the application.
+[21/04/2023 3:45:37 AM] Closed Ankh the application.
+[21/04/2023 3:46:55 AM] Opened Ankh the application.
+[21/04/2023 3:50:44 AM] Opened Ankh the application.
+[21/04/2023 3:53:10 AM] Opened Ankh the application.
+[21/04/2023 3:53:54 AM] Closed Ankh the application.
+[21/04/2023 3:54:21 AM] Opened Ankh the application.
+[21/04/2023 3:55:27 AM] Closed Ankh the application.
+[21/04/2023 3:55:57 AM] Opened Ankh the application.
+[21/04/2023 4:00:17 AM] Closed Ankh the application.
+[21/04/2023 4:00:32 AM] Opened Ankh the application.
+[21/04/2023 4:00:53 AM] Closed Ankh the application.
+[21/04/2023 4:01:32 AM] Opened Ankh the application.
+[21/04/2023 4:08:48 AM] Closed Ankh the application.
+[22/04/2023 10:26:08 PM] Opened Ankh the application.
+[22/04/2023 10:28:14 PM] Closed Ankh the application.
+[22/04/2023 10:46:06 PM] Opened Ankh the application.
+[22/04/2023 10:48:14 PM] Opened Ankh the application.
+[22/04/2023 10:49:44 PM] Opened Ankh the application.
+[22/04/2023 10:52:11 PM] Opened Ankh the application.
+[22/04/2023 10:53:00 PM] Opened Ankh the application.
+[22/04/2023 10:53:05 PM] Closed Ankh the application.
+[22/04/2023 10:53:08 PM] Opened Ankh the application.
+[22/04/2023 10:53:14 PM] Closed Ankh the application.
+[22/04/2023 10:53:27 PM] Opened Ankh the application.
+[22/04/2023 10:55:47 PM] Opened Ankh the application.
+[22/04/2023 10:58:40 PM] Closed Ankh the application.
+[22/04/2023 10:58:44 PM] Opened Ankh the application.
+[22/04/2023 11:00:34 PM] Opened Ankh the application.
+[22/04/2023 11:01:10 PM] Opened Ankh the application.
+[22/04/2023 11:01:49 PM] Opened Ankh the application.
+[22/04/2023 11:02:20 PM] Opened Ankh the application.
+[22/04/2023 11:03:12 PM] Opened Ankh the application.
+[22/04/2023 11:03:16 PM] Closed Ankh the application.
+[22/04/2023 11:03:26 PM] Opened Ankh the application.
+[22/04/2023 11:06:09 PM] Opened Ankh the application.
+[22/04/2023 11:07:28 PM] Opened Ankh the application.
+[22/04/2023 11:08:55 PM] Opened Ankh the application.
+[22/04/2023 11:10:55 PM] Opened Ankh the application.
+[22/04/2023 11:13:35 PM] Opened Ankh the application.
+[22/04/2023 11:14:55 PM] Opened Ankh the application.
+[22/04/2023 11:18:38 PM] Closed Ankh the application.
+[22/04/2023 11:18:44 PM] Opened Ankh the application.
+[22/04/2023 11:21:26 PM] Closed Ankh the application.
+[22/04/2023 11:21:32 PM] Opened Ankh the application.
+[22/04/2023 11:21:43 PM] Closed Ankh the application.
+[22/04/2023 11:22:02 PM] Opened Ankh the application.
+[22/04/2023 11:23:04 PM] Closed Ankh the application.
+[22/04/2023 11:23:12 PM] Opened Ankh the application.
+[22/04/2023 11:23:41 PM] Closed Ankh the application.
+[22/04/2023 11:25:04 PM] Opened Ankh the application.
+[22/04/2023 11:28:18 PM] Closed Ankh the application.
+[23/04/2023 1:24:13 PM] Opened Ankh the application.
+[23/04/2023 1:25:27 PM] Opened Ankh the application.
+[23/04/2023 1:26:42 PM] Closed Ankh the application.
+[23/04/2023 11:36:46 PM] Opened Ankh the application.
+[23/04/2023 11:39:46 PM] Closed Ankh the application.
+[27/04/2023 12:42:49 PM] Opened Ankh the application.
+[27/04/2023 12:44:07 PM] Closed Ankh the application.
+[27/04/2023 12:44:30 PM] Opened Ankh the application.
+[27/04/2023 12:44:52 PM] Closed Ankh the application.
+[28/04/2023 9:55:57 AM] Opened Ankh the application.
+[28/04/2023 9:56:22 AM] Closed Ankh the application.
+[28/04/2023 6:08:02 PM] Opened Ankh the application.
+[28/04/2023 6:11:02 PM] Opened Ankh the application.
+[28/04/2023 6:11:51 PM] Closed Ankh the application.
+[28/04/2023 6:13:17 PM] Opened Ankh the application.
+[28/04/2023 6:15:16 PM] Closed Ankh the application.
+[28/04/2023 6:15:20 PM] Opened Ankh the application.
+[28/04/2023 6:17:16 PM] Closed Ankh the application.
+[28/04/2023 6:19:11 PM] Opened Ankh the application.
