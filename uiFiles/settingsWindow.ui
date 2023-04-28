@@ -1,0 +1,726 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>settingsWindow</class>
+ <widget class="QMainWindow" name="settingsWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>371</width>
+    <height>461</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QLabel" name="mainLabel">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>0</y>
+      <width>371</width>
+      <height>461</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>1</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">
+border-image: url(:/icons/icons/118Z_2012.w026.n002.13B.p1.13 blurredsmall.png);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="l7">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>370</y>
+      <width>121</width>
+      <height>40</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>16</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="text">
+     <string>Show time:</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="l3">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>130</y>
+      <width>191</width>
+      <height>40</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>16</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="text">
+     <string>Default language:</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="l1">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>10</y>
+      <width>201</width>
+      <height>40</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>16</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="text">
+     <string>Default dictionary:</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="changeBtn">
+    <property name="geometry">
+     <rect>
+      <x>300</x>
+      <y>14</y>
+      <width>58</width>
+      <height>32</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton {
+    color: #333;
+    border: 2px solid rgb(105, 105, 157);
+    border-radius: 10px;
+
+
+     background: rgb(170, 170, 255,95%)
+	
+	
+    
+    }
+
+QPushButton:hover {
+    background: rgb(130, 130, 195);
+    }
+
+QPushButton:pressed {
+    border-style: inset;
+    background: rgb(77, 77, 115);
+    }</string>
+    </property>
+    <property name="text">
+     <string>Change</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="l77">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>370</y>
+      <width>371</width>
+      <height>40</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(255, 255, 255,55);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QCheckBox" name="showtimeCheckbox">
+    <property name="geometry">
+     <rect>
+      <x>300</x>
+      <y>374</y>
+      <width>58</width>
+      <height>32</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>8</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true"> QCheckBox::indicator:unchecked:hover {
+	border-image:url(:/icons/icons/Toggle off2h.png);
+	width: 58px;
+	height: 32px;
+} 
+ QCheckBox::indicator:checked:hover {
+	border-image:url(:/icons/icons/Toggle on2h.png);
+	width: 58px;
+	height: 32px;
+} 
+QCheckBox::indicator:unchecked {
+	border-image: url(:/icons/icons/Toggle off2.png);
+	width: 58px;
+	height: 32px;
+	
+    }
+    QCheckBox::indicator:checked {
+	
+	border-image: url(:/icons/icons/Toggle on2.png);
+	width:58px;
+	height:32px;
+    }</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="iconSize">
+     <size>
+      <width>16</width>
+      <height>16</height>
+     </size>
+    </property>
+   </widget>
+   <widget class="QComboBox" name="comboBox">
+    <property name="geometry">
+     <rect>
+      <x>240</x>
+      <y>134</y>
+      <width>116</width>
+      <height>32</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>12</pointsize>
+      <weight>50</weight>
+      <bold>false</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QComboBox{
+
+	background-color: rgb(170, 170, 255);
+	border: 2px solid rgb(105, 105, 157);
+    border-style: outset
+
+}
+QListView {
+
+    background: rgb(170, 170, 255);
+    border: 1px solid gray;
+}</string>
+    </property>
+    <item>
+     <property name="text">
+      <string>English</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Arabic</string>
+     </property>
+    </item>
+   </widget>
+   <widget class="QCheckBox" name="showdateCheckbox">
+    <property name="geometry">
+     <rect>
+      <x>300</x>
+      <y>314</y>
+      <width>58</width>
+      <height>32</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>8</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true"> QCheckBox::indicator:unchecked:hover {
+	border-image:url(:/icons/icons/Toggle off2h.png);
+	width: 58px;
+	height: 32px;
+} 
+ QCheckBox::indicator:checked:hover {
+	border-image:url(:/icons/icons/Toggle on2h.png);
+	width: 58px;
+	height: 32px;
+} 
+QCheckBox::indicator:unchecked {
+	border-image: url(:/icons/icons/Toggle off2.png);
+	width: 58px;
+	height: 32px;
+	
+    }
+    QCheckBox::indicator:checked {
+	
+	border-image: url(:/icons/icons/Toggle on2.png);
+	width:58px;
+	height:32px;
+    }</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="iconSize">
+     <size>
+      <width>16</width>
+      <height>16</height>
+     </size>
+    </property>
+   </widget>
+   <widget class="QLabel" name="l66">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>310</y>
+      <width>371</width>
+      <height>40</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(255, 255, 255,55);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="l6">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>310</y>
+      <width>121</width>
+      <height>40</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>16</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="text">
+     <string>Show date:</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="l5">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>250</y>
+      <width>121</width>
+      <height>40</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>16</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="text">
+     <string>Bold text: </string>
+    </property>
+   </widget>
+   <widget class="QCheckBox" name="boldtextCheckbox">
+    <property name="geometry">
+     <rect>
+      <x>300</x>
+      <y>254</y>
+      <width>58</width>
+      <height>32</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>8</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true"> QCheckBox::indicator:unchecked:hover {
+	border-image:url(:/icons/icons/Toggle off2h.png);
+	width: 58px;
+	height: 32px;
+} 
+ QCheckBox::indicator:checked:hover {
+	border-image:url(:/icons/icons/Toggle on2h.png);
+	width: 58px;
+	height: 32px;
+} 
+QCheckBox::indicator:unchecked {
+	border-image: url(:/icons/icons/Toggle off2.png);
+	width: 58px;
+	height: 32px;
+	
+    }
+    QCheckBox::indicator:checked {
+	
+	border-image: url(:/icons/icons/Toggle on2.png);
+	width:58px;
+	height:32px;
+    }</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="iconSize">
+     <size>
+      <width>16</width>
+      <height>16</height>
+     </size>
+    </property>
+   </widget>
+   <widget class="QLabel" name="l55">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>250</y>
+      <width>371</width>
+      <height>40</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(255, 255, 255,55);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="l4">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>190</y>
+      <width>121</width>
+      <height>40</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>16</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="text">
+     <string>Dark mode: </string>
+    </property>
+   </widget>
+   <widget class="QCheckBox" name="darkmodeCheckbox">
+    <property name="geometry">
+     <rect>
+      <x>300</x>
+      <y>194</y>
+      <width>58</width>
+      <height>32</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>8</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true"> QCheckBox::indicator:unchecked:hover {
+	border-image:url(:/icons/icons/Toggle off2h.png);
+	width: 58px;
+	height: 32px;
+} 
+ QCheckBox::indicator:checked:hover {
+	border-image:url(:/icons/icons/Toggle on2h.png);
+	width: 58px;
+	height: 32px;
+} 
+QCheckBox::indicator:unchecked {
+	border-image: url(:/icons/icons/Toggle off2.png);
+	width: 58px;
+	height: 32px;
+	
+    }
+    QCheckBox::indicator:checked {
+	
+	border-image: url(:/icons/icons/Toggle on2.png);
+	width:58px;
+	height:32px;
+    }</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="iconSize">
+     <size>
+      <width>16</width>
+      <height>16</height>
+     </size>
+    </property>
+   </widget>
+   <widget class="QLabel" name="l44">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>190</y>
+      <width>371</width>
+      <height>40</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(255, 255, 255,55);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="l33">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>130</y>
+      <width>371</width>
+      <height>40</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(255, 255, 255,55);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="l11">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>10</y>
+      <width>371</width>
+      <height>40</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(255, 255, 255,55);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="l22">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>70</y>
+      <width>371</width>
+      <height>40</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(255, 255, 255,55);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="l2">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>70</y>
+      <width>351</width>
+      <height>40</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>14</pointsize>
+      <weight>50</weight>
+      <bold>false</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(37, 37, 37);
+</string>
+    </property>
+    <property name="text">
+     <string>-Current_Dictionary</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="saveBtn">
+    <property name="geometry">
+     <rect>
+      <x>230</x>
+      <y>420</y>
+      <width>61</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>MS Shell Dlg 2</family>
+      <pointsize>10</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="cursor">
+     <cursorShape>PointingHandCursor</cursorShape>
+    </property>
+    <property name="layoutDirection">
+     <enum>Qt::LeftToRight</enum>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton {
+    color: #333;
+    border: 2px solid rgb(105, 105, 157);
+    border-radius: 10px;
+
+
+     background: rgb(170, 170, 255,95%)
+	
+	
+    
+    }
+
+QPushButton:hover {
+    background: rgb(130, 130, 195);
+    }
+
+QPushButton:pressed {
+    border-style: inset;
+    background: rgb(77, 77, 115);
+    }</string>
+    </property>
+    <property name="text">
+     <string>Save</string>
+    </property>
+    <property name="flat">
+     <bool>false</bool>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="cancelBtn">
+    <property name="geometry">
+     <rect>
+      <x>300</x>
+      <y>420</y>
+      <width>61</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>MS Shell Dlg 2</family>
+      <pointsize>10</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="cursor">
+     <cursorShape>PointingHandCursor</cursorShape>
+    </property>
+    <property name="layoutDirection">
+     <enum>Qt::LeftToRight</enum>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton {
+    color: #333;
+    border: 2px solid rgb(105, 105, 157);
+    border-radius: 10px;
+
+
+     background: rgb(170, 170, 255,95%)
+	
+	
+    
+    }
+
+QPushButton:hover {
+    background: rgb(130, 130, 195);
+    }
+
+QPushButton:pressed {
+    border-style: inset;
+    background: rgb(77, 77, 115);
+    }</string>
+    </property>
+    <property name="text">
+     <string>Cancel</string>
+    </property>
+    <property name="flat">
+     <bool>false</bool>
+    </property>
+   </widget>
+   <widget class="QLabel" name="statusLabel">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>410</y>
+      <width>211</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>14</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">
+color: rgb(105, 105, 157);</string>
+    </property>
+    <property name="text">
+     <string>------------------------------------------------------</string>
+    </property>
+   </widget>
+   <zorder>mainLabel</zorder>
+   <zorder>l11</zorder>
+   <zorder>l33</zorder>
+   <zorder>l66</zorder>
+   <zorder>l77</zorder>
+   <zorder>l44</zorder>
+   <zorder>l55</zorder>
+   <zorder>l7</zorder>
+   <zorder>l3</zorder>
+   <zorder>l1</zorder>
+   <zorder>changeBtn</zorder>
+   <zorder>showtimeCheckbox</zorder>
+   <zorder>comboBox</zorder>
+   <zorder>showdateCheckbox</zorder>
+   <zorder>l6</zorder>
+   <zorder>l5</zorder>
+   <zorder>boldtextCheckbox</zorder>
+   <zorder>l4</zorder>
+   <zorder>darkmodeCheckbox</zorder>
+   <zorder>l22</zorder>
+   <zorder>l2</zorder>
+   <zorder>saveBtn</zorder>
+   <zorder>cancelBtn</zorder>
+   <zorder>statusLabel</zorder>
+  </widget>
+ </widget>
+ <resources>
+  <include location="../guitesting/icons.qrc"/>
+  <include location="icons.qrc"/>
+ </resources>
+ <connections/>
+</ui>

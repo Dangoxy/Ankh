@@ -1,0 +1,1263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1230</width>
+    <height>615</height>
+   </rect>
+  </property>
+  <property name="font">
+   <font>
+    <family>MS Shell Dlg 2</family>
+   </font>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <property name="windowOpacity">
+   <double>0.980000000000000</double>
+  </property>
+  <property name="toolTip">
+   <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+  </property>
+  <property name="autoFillBackground">
+   <bool>false</bool>
+  </property>
+  <property name="styleSheet">
+   <string notr="true"/>
+  </property>
+  <property name="tabShape">
+   <enum>QTabWidget::Rounded</enum>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QRadioButton" name="enRadioBtn">
+    <property name="enabled">
+     <bool>true</bool>
+    </property>
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>560</y>
+      <width>81</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>MS Shell Dlg 2</family>
+      <pointsize>12</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="cursor">
+     <cursorShape>PointingHandCursor</cursorShape>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(209, 203, 255)</string>
+    </property>
+    <property name="text">
+     <string>English</string>
+    </property>
+   </widget>
+   <widget class="QRadioButton" name="arRadioBtn">
+    <property name="geometry">
+     <rect>
+      <x>120</x>
+      <y>560</y>
+      <width>71</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>MS Shell Dlg 2</family>
+      <pointsize>12</pointsize>
+      <weight>75</weight>
+      <italic>false</italic>
+      <bold>true</bold>
+      <underline>false</underline>
+      <strikeout>false</strikeout>
+      <kerning>true</kerning>
+     </font>
+    </property>
+    <property name="cursor">
+     <cursorShape>PointingHandCursor</cursorShape>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(200, 200, 200)
+</string>
+    </property>
+    <property name="text">
+     <string>Arabic</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="guideBtn">
+    <property name="geometry">
+     <rect>
+      <x>1110</x>
+      <y>560</y>
+      <width>101</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>MS Shell Dlg 2</family>
+      <pointsize>12</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="cursor">
+     <cursorShape>PointingHandCursor</cursorShape>
+    </property>
+    <property name="layoutDirection">
+     <enum>Qt::LeftToRight</enum>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton {
+    color: #333;
+    border: 2px solid rgb(105, 105, 157);
+    border-radius: 10px;
+border-bottom-right-radius:30px;
+
+     background: rgb(170, 170, 255,95%)
+	
+	
+    
+    }
+
+QPushButton:hover {
+    background: rgb(130, 130, 195);
+    }
+
+QPushButton:pressed {
+    border-style: inset;
+    background: rgb(77, 77, 115);
+    }</string>
+    </property>
+    <property name="text">
+     <string>Guide</string>
+    </property>
+    <property name="flat">
+     <bool>false</bool>
+    </property>
+   </widget>
+   <widget class="QComboBox" name="langComboBox">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>20</y>
+      <width>131</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>MS Shell Dlg 2</family>
+      <pointsize>12</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+      <underline>false</underline>
+     </font>
+    </property>
+    <property name="cursor">
+     <cursorShape>PointingHandCursor</cursorShape>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QComboBox{
+background-color: rgb(170, 170, 255);
+border: 2px solid rgb(105, 105, 157);
+border-radius: 6px;
+border-top-left-radius:25px;
+border-bottom-left-radius:5px;}
+QListView {
+background: rgb(170, 170, 255);
+border: 1px solid gray;}
+QComboBox::drop-down:button{
+border-radius:2px;
+width: 18px;
+height: 37px;
+background-color: rgb(117, 117, 175);}
+QComboBox::down-arrow{
+image: url(:/icons/icons/arrow.png);
+width: 12px;
+height: 12px;}</string>
+    </property>
+    <property name="duplicatesEnabled">
+     <bool>false</bool>
+    </property>
+    <item>
+     <property name="text">
+      <string>English</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Arabic</string>
+     </property>
+    </item>
+   </widget>
+   <widget class="QLabel" name="mainLabel">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>0</y>
+      <width>1230</width>
+      <height>615</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color:rgb(179, 179, 213);
+
+border-top-left-radius:55px;
+border-bottom-left-radius:55px;
+border-bottom-right-radius:55px;
+
+image: url(:/icons/icons/118Z_2012.w026.n002.13B.p1.13be.png);
+image: url(:/icons/icons/118Z_2012.w026.n002.13B.p1.13bedark.png);
+
+</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="scaledContents">
+     <bool>true</bool>
+    </property>
+    <property name="margin">
+     <number>0</number>
+    </property>
+    <property name="indent">
+     <number>-1</number>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="exitBtn">
+    <property name="geometry">
+     <rect>
+      <x>1180</x>
+      <y>20</y>
+      <width>31</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>MS Sans Serif</family>
+      <pointsize>10</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton {
+    color: rgb(255, 255, 255);
+    
+    border-radius: 5px;
+   
+    background:rgb(201, 49, 49,100%)
+	
+	
+    
+    }
+
+QPushButton:hover {
+    background: rgb(148, 49, 49);
+    }
+
+QPushButton:pressed {
+    border-style: inset;
+    background: rgb(124, 49, 49);
+    }</string>
+    </property>
+    <property name="text">
+     <string>X</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="minimizeBtn">
+    <property name="geometry">
+     <rect>
+      <x>1140</x>
+      <y>20</y>
+      <width>31</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>MS Sans Serif</family>
+      <pointsize>8</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton {
+    color: rgb(255, 255, 255);
+    
+    border-radius: 5px;
+   
+    background:rgb(201, 49, 49,100%)
+	
+	
+    
+    }
+
+QPushButton:hover {
+    background: rgb(148, 49, 49);
+    }
+
+QPushButton:pressed {
+    border-style: inset;
+    background: rgb(124, 49, 49);
+    }</string>
+    </property>
+    <property name="text">
+     <string>--</string>
+    </property>
+   </widget>
+   <widget class="QPlainTextEdit" name="en_arTextEdit">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>70</y>
+      <width>591</width>
+      <height>221</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>MS Shell Dlg 2</family>
+      <pointsize>16</pointsize>
+      <weight>50</weight>
+      <bold>false</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color:rgb(255, 255, 255,60%);
+
+border-radius:10px;
+
+
+border: 2px;
+border-style: solid;
+border-color: rgb(105, 105, 157);
+
+</string>
+    </property>
+    <property name="plainText">
+     <string>Hello, this is a test of this label's text functionability. cuz it seems kinda not worky</string>
+    </property>
+   </widget>
+   <widget class="QPlainTextEdit" name="hieroTextEdit_2">
+    <property name="geometry">
+     <rect>
+      <x>620</x>
+      <y>70</y>
+      <width>591</width>
+      <height>221</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>MS Shell Dlg 2</family>
+      <pointsize>16</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color:rgb(0, 0, 0,50%);
+color: rgb(255, 255, 255);
+border-radius:10px;
+font-weight: bold;
+
+border: 2px;
+border-style: solid;
+border-color: rgb(29, 55, 74,100%);
+
+</string>
+    </property>
+    <property name="plainText">
+     <string>&quot;prompt hiero&quot; thisisatestofthislabelstextfunctionabilitycuzitseemskindanotworky</string>
+    </property>
+   </widget>
+   <widget class="QScrollArea" name="scrollArea">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>340</y>
+      <width>1191</width>
+      <height>201</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>MS Shell Dlg 2</family>
+      <pointsize>8</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QScrollArea{
+background-color:rgb(255, 255, 255,50%);
+border: 2px;
+border-style: solid;
+border-color: rgb(29, 55, 74);}
+
+QWidget{
+background-color: rgb(122,122,122,100%);}
+
+QScrollBar:vertical {
+			background-color: none;
+            border: 0px solid #999999;
+            background-color: rgb(34, 35, 52);
+            width:16px;    
+            margin: 16px 1px 16px 0px;
+        }
+        QScrollBar::handle:vertical {         
+            min-height: 0px;
+            border: 0px solid red;
+            background-color:rgb(29, 55, 74);
+        }
+        QScrollBar::add-line:vertical { 
+			      
+			image: url(:/icons/icons/arrowdown.png);
+            height: 16px;
+            subcontrol-position: bottom;
+            subcontrol-origin: margin;
+			margin: 0px 1px 0px 1px;
+        }
+        QScrollBar::sub-line:vertical {
+			
+			image: url(:/icons/icons/arrowup.png);
+            height: 16 px;
+            subcontrol-position: top;
+            subcontrol-origin: margin;
+			margin: 0px 1px 0px 1px;
+        }
+
+	QScrollBar::add-page:vertical, QScrollBar::sub-page:vertical {
+    background: rgb(255, 255, 255);
+	border: 2px solid #0000000;;
+}
+
+</string>
+    </property>
+    <property name="verticalScrollBarPolicy">
+     <enum>Qt::ScrollBarAlwaysOn</enum>
+    </property>
+    <property name="horizontalScrollBarPolicy">
+     <enum>Qt::ScrollBarAlwaysOff</enum>
+    </property>
+    <property name="sizeAdjustPolicy">
+     <enum>QAbstractScrollArea::AdjustIgnored</enum>
+    </property>
+    <property name="widgetResizable">
+     <bool>true</bool>
+    </property>
+    <widget class="QWidget" name="scrollAreaWidgetContents_2">
+     <property name="geometry">
+      <rect>
+       <x>0</x>
+       <y>-4</y>
+       <width>1171</width>
+       <height>353</height>
+      </rect>
+     </property>
+     <layout class="QGridLayout" name="gridLayout_2">
+      <property name="leftMargin">
+       <number>4</number>
+      </property>
+      <property name="topMargin">
+       <number>4</number>
+      </property>
+      <property name="rightMargin">
+       <number>4</number>
+      </property>
+      <property name="bottomMargin">
+       <number>4</number>
+      </property>
+      <property name="spacing">
+       <number>0</number>
+      </property>
+      <item row="9" column="1">
+       <widget class="QPushButton" name="pushButton_5">
+        <property name="text">
+         <string>PushButton</string>
+        </property>
+       </widget>
+      </item>
+      <item row="13" column="1">
+       <widget class="QPushButton" name="pushButton_14">
+        <property name="text">
+         <string>PushButton</string>
+        </property>
+       </widget>
+      </item>
+      <item row="11" column="1">
+       <widget class="QPushButton" name="pushButton_8">
+        <property name="text">
+         <string>PushButton</string>
+        </property>
+       </widget>
+      </item>
+      <item row="7" column="1">
+       <widget class="QPushButton" name="pushButton">
+        <property name="text">
+         <string>PushButton</string>
+        </property>
+       </widget>
+      </item>
+      <item row="12" column="1">
+       <widget class="QPushButton" name="pushButton_9">
+        <property name="text">
+         <string>PushButton</string>
+        </property>
+       </widget>
+      </item>
+      <item row="8" column="1">
+       <widget class="QPushButton" name="pushButton_4">
+        <property name="text">
+         <string>PushButton</string>
+        </property>
+       </widget>
+      </item>
+      <item row="20" column="1">
+       <widget class="QPushButton" name="pushButton_6">
+        <property name="text">
+         <string>PushButton</string>
+        </property>
+       </widget>
+      </item>
+      <item row="10" column="1">
+       <widget class="QPushButton" name="pushButton_7">
+        <property name="text">
+         <string>PushButton</string>
+        </property>
+       </widget>
+      </item>
+      <item row="19" column="1">
+       <widget class="QPushButton" name="pushButton_11">
+        <property name="text">
+         <string>PushButton</string>
+        </property>
+       </widget>
+      </item>
+      <item row="18" column="1">
+       <widget class="QPushButton" name="pushButton_12">
+        <property name="text">
+         <string>PushButton</string>
+        </property>
+       </widget>
+      </item>
+      <item row="15" column="1">
+       <widget class="QPushButton" name="pushButton_15">
+        <property name="text">
+         <string>PushButton</string>
+        </property>
+       </widget>
+      </item>
+      <item row="21" column="1">
+       <widget class="QPushButton" name="pushButton_2">
+        <property name="text">
+         <string>PushButton</string>
+        </property>
+       </widget>
+      </item>
+      <item row="17" column="1">
+       <widget class="QPushButton" name="pushButton_13">
+        <property name="text">
+         <string>PushButton</string>
+        </property>
+       </widget>
+      </item>
+      <item row="16" column="1">
+       <widget class="QPushButton" name="pushButton_10">
+        <property name="text">
+         <string>PushButton</string>
+        </property>
+       </widget>
+      </item>
+      <item row="14" column="1">
+       <widget class="QPushButton" name="pushButton_16">
+        <property name="text">
+         <string>PushButton</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </widget>
+   </widget>
+   <widget class="QComboBox" name="categoryComboBox">
+    <property name="geometry">
+     <rect>
+      <x>120</x>
+      <y>300</y>
+      <width>521</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>MS Shell Dlg 2</family>
+      <pointsize>12</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QComboBox{
+background-color: rgb(170, 170, 255);
+border: 2px solid rgb(105, 105, 157);
+border-radius:8px;}
+QListView {
+background: rgb(170, 170, 255);
+border: 1px solid gray;}
+QComboBox::drop-down:button{
+border-radius:5px;
+width: 18px;
+height: 27px;
+background-color: rgb(117, 117, 175);}
+QComboBox::down-arrow{
+image: url(:/icons/icons/arrow.png);
+width: 12px;
+height: 12px;}</string>
+    </property>
+    <item>
+     <property name="text">
+      <string>A. Man and his Occupations</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>B. Woman and her Occupations</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>C. Anthropomorphic Deities</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>D. Parts of the Human Body</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>E. Mammals</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>F. Parts of Mammals</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>G. Birds</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>H. Parts of Birds</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>I. Amphibious Animals, Reptiles, etc.</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>K. Fish and Parts of Fish</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>L. Invertebrates and Lesser Animals</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>M. Trees and Plants</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>N. Sky, Earth, Water</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>O. Buildings, Parts of Buildings, etc.</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>P. Ships and Parts of Ships</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Q. Domestics and Funerary Furniture</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>R. Temple Furniture and Sacred Emblems</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>S. Crowns, Dress, Staves, etc.</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>T. Warfare, Hunting, Butchery</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>U. Agriculture, Crafts, and Professions</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>V. Rope, Fiber, Baskets, Bags, etc.</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>W. Vessels of Stone and Earthenware</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>X. Loaves and Cakes</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Y. Writings, Games, Music</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Z. Strokes, Signs derived from Hieratic, Geometrical Figures</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Aa. Unclassified</string>
+     </property>
+    </item>
+   </widget>
+   <widget class="QPushButton" name="historyBtn">
+    <property name="geometry">
+     <rect>
+      <x>980</x>
+      <y>560</y>
+      <width>111</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>MS Shell Dlg 2</family>
+      <pointsize>12</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="cursor">
+     <cursorShape>PointingHandCursor</cursorShape>
+    </property>
+    <property name="layoutDirection">
+     <enum>Qt::LeftToRight</enum>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton {
+    color: #333;
+    border: 2px solid rgb(105, 105, 157);
+    border-radius: 10px;
+
+
+     background: rgb(170, 170, 255,95%)
+	
+	
+    
+    }
+
+QPushButton:hover {
+    background: rgb(130, 130, 195);
+    }
+
+QPushButton:pressed {
+    border-style: inset;
+    background: rgb(77, 77, 115);
+    }</string>
+    </property>
+    <property name="text">
+     <string>History</string>
+    </property>
+    <property name="flat">
+     <bool>false</bool>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="dicBtn">
+    <property name="geometry">
+     <rect>
+      <x>700</x>
+      <y>560</y>
+      <width>131</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>MS Shell Dlg 2</family>
+      <pointsize>12</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="cursor">
+     <cursorShape>PointingHandCursor</cursorShape>
+    </property>
+    <property name="layoutDirection">
+     <enum>Qt::LeftToRight</enum>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton {
+    color: #333;
+    border: 2px solid rgb(105, 105, 157);
+    border-radius: 10px;
+
+
+     background: rgb(170, 170, 255,95%)
+	
+	
+    
+    }
+
+QPushButton:hover {
+    background: rgb(130, 130, 195);
+    }
+
+QPushButton:pressed {
+    border-style: inset;
+    background: rgb(77, 77, 115);
+    }</string>
+    </property>
+    <property name="text">
+     <string>Dictionary</string>
+    </property>
+    <property name="flat">
+     <bool>false</bool>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="settingsBtn">
+    <property name="geometry">
+     <rect>
+      <x>850</x>
+      <y>560</y>
+      <width>111</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>MS Shell Dlg 2</family>
+      <pointsize>12</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="cursor">
+     <cursorShape>PointingHandCursor</cursorShape>
+    </property>
+    <property name="layoutDirection">
+     <enum>Qt::LeftToRight</enum>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton {
+    color: #333;
+    border: 2px solid rgb(105, 105, 157);
+    border-radius: 10px;
+
+
+     background: rgb(170, 170, 255,95%)
+	
+	
+    
+    }
+
+QPushButton:hover {
+    background: rgb(130, 130, 195);
+    }
+
+QPushButton:pressed {
+    border-style: inset;
+    background: rgb(77, 77, 115);
+    }</string>
+    </property>
+    <property name="text">
+     <string>Settings</string>
+    </property>
+    <property name="flat">
+     <bool>false</bool>
+    </property>
+   </widget>
+   <widget class="QLabel" name="categoryLabel">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>300</y>
+      <width>81</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Arial</family>
+      <pointsize>12</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="text">
+     <string>Category: </string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="dateLabel">
+    <property name="geometry">
+     <rect>
+      <x>580</x>
+      <y>570</y>
+      <width>101</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Bebas</family>
+      <pointsize>18</pointsize>
+      <weight>50</weight>
+      <bold>false</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(255, 255, 255);</string>
+    </property>
+    <property name="text">
+     <string>22/22/2222</string>
+    </property>
+    <property name="alignment">
+     <set>Qt::AlignCenter</set>
+    </property>
+   </widget>
+   <widget class="QLabel" name="timeLabel">
+    <property name="geometry">
+     <rect>
+      <x>480</x>
+      <y>570</y>
+      <width>81</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Bebas</family>
+      <pointsize>18</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(255, 255, 255);</string>
+    </property>
+    <property name="text">
+     <string>00:00 AM</string>
+    </property>
+    <property name="alignment">
+     <set>Qt::AlignCenter</set>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="moreinfoBtn">
+    <property name="geometry">
+     <rect>
+      <x>1080</x>
+      <y>300</y>
+      <width>121</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>MS Shell Dlg 2</family>
+      <pointsize>12</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="cursor">
+     <cursorShape>PointingHandCursor</cursorShape>
+    </property>
+    <property name="layoutDirection">
+     <enum>Qt::LeftToRight</enum>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton {
+    color: #333;
+    border: 2px solid rgb(105, 105, 157);
+    border-radius: 10px;
+
+
+     background: rgb(170, 170, 255,95%)
+	
+	
+    
+    }
+
+QPushButton:hover {
+    background: rgb(130, 130, 195);
+    }
+
+QPushButton:pressed {
+    border-style: inset;
+    background: rgb(77, 77, 115);
+    }</string>
+    </property>
+    <property name="text">
+     <string>More info</string>
+    </property>
+    <property name="flat">
+     <bool>false</bool>
+    </property>
+   </widget>
+   <widget class="QComboBox" name="langComboBox_2">
+    <property name="geometry">
+     <rect>
+      <x>620</x>
+      <y>20</y>
+      <width>131</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>MS Shell Dlg 2</family>
+      <pointsize>12</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+      <underline>false</underline>
+     </font>
+    </property>
+    <property name="cursor">
+     <cursorShape>PointingHandCursor</cursorShape>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QComboBox{
+	background-color: rgb(55, 55, 55,95);
+	border: 2px solid rgb(10, 40, 55);
+	border-radius:5px;
+	color: rgb(200, 200, 200);
+}
+QComboBox::drop-down:button{
+	border-radius:5px;
+	background-color: rgb(50, 50, 50);
+}
+QComboBox::down-arrow{
+	image: url(:/icons/icons/arrowdowndark.png);
+	width: 12px;
+	height: 12px;
+}
+QListView {
+    background: rgb(55, 55, 55,95);
+    border: 2px solid rgb(10, 40, 55);
+    color: rgb(200, 200, 200);
+}</string>
+    </property>
+    <property name="duplicatesEnabled">
+     <bool>false</bool>
+    </property>
+    <item>
+     <property name="text">
+      <string>English</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Arabic</string>
+     </property>
+    </item>
+   </widget>
+   <widget class="QPushButton" name="moreresultsBtn">
+    <property name="geometry">
+     <rect>
+      <x>940</x>
+      <y>300</y>
+      <width>121</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>MS Shell Dlg 2</family>
+      <pointsize>12</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="cursor">
+     <cursorShape>PointingHandCursor</cursorShape>
+    </property>
+    <property name="layoutDirection">
+     <enum>Qt::LeftToRight</enum>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton {
+    color: #333;
+    border: 2px solid rgb(29, 55, 74,100%);
+    border-radius: 10px;
+
+
+     background: rgb(55, 55, 55,95%);
+	
+	color: rgb(200, 200, 200);
+
+    
+    }
+
+QPushButton:hover {
+    background: rgb(40, 40, 40);
+    }
+
+QPushButton:pressed {
+    border-style: inset;
+    background: rgb(77, 77, 115);
+    }</string>
+    </property>
+    <property name="text">
+     <string>More results</string>
+    </property>
+    <property name="flat">
+     <bool>false</bool>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_3">
+    <property name="geometry">
+     <rect>
+      <x>648</x>
+      <y>470</y>
+      <width>1181</width>
+      <height>23</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton{color: rgb(0, 0, 0)}
+QPushButton:pressed{background-color: rgb(25, 25, 25,50);}</string>
+    </property>
+    <property name="text">
+     <string>PushButton</string>
+    </property>
+    <property name="flat">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_17">
+    <property name="geometry">
+     <rect>
+      <x>570</x>
+      <y>30</y>
+      <width>40</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>MS Shell Dlg 2</family>
+      <pointsize>13</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image: url(:/icons/icons/exchangef.png)</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="flat">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <zorder>mainLabel</zorder>
+   <zorder>enRadioBtn</zorder>
+   <zorder>arRadioBtn</zorder>
+   <zorder>guideBtn</zorder>
+   <zorder>langComboBox</zorder>
+   <zorder>exitBtn</zorder>
+   <zorder>minimizeBtn</zorder>
+   <zorder>en_arTextEdit</zorder>
+   <zorder>hieroTextEdit_2</zorder>
+   <zorder>scrollArea</zorder>
+   <zorder>categoryComboBox</zorder>
+   <zorder>historyBtn</zorder>
+   <zorder>dicBtn</zorder>
+   <zorder>settingsBtn</zorder>
+   <zorder>categoryLabel</zorder>
+   <zorder>dateLabel</zorder>
+   <zorder>timeLabel</zorder>
+   <zorder>moreinfoBtn</zorder>
+   <zorder>langComboBox_2</zorder>
+   <zorder>moreresultsBtn</zorder>
+   <zorder>pushButton_3</zorder>
+   <zorder>pushButton_17</zorder>
+  </widget>
+ </widget>
+ <tabstops>
+  <tabstop>enRadioBtn</tabstop>
+  <tabstop>arRadioBtn</tabstop>
+  <tabstop>dicBtn</tabstop>
+  <tabstop>hieroTextEdit_2</tabstop>
+  <tabstop>historyBtn</tabstop>
+  <tabstop>exitBtn</tabstop>
+  <tabstop>guideBtn</tabstop>
+  <tabstop>minimizeBtn</tabstop>
+  <tabstop>settingsBtn</tabstop>
+  <tabstop>scrollArea</tabstop>
+  <tabstop>en_arTextEdit</tabstop>
+  <tabstop>moreinfoBtn</tabstop>
+  <tabstop>langComboBox_2</tabstop>
+  <tabstop>moreresultsBtn</tabstop>
+  <tabstop>langComboBox</tabstop>
+  <tabstop>categoryComboBox</tabstop>
+  <tabstop>pushButton_3</tabstop>
+  <tabstop>pushButton</tabstop>
+  <tabstop>pushButton_2</tabstop>
+  <tabstop>pushButton_4</tabstop>
+  <tabstop>pushButton_5</tabstop>
+  <tabstop>pushButton_6</tabstop>
+  <tabstop>pushButton_7</tabstop>
+  <tabstop>pushButton_8</tabstop>
+  <tabstop>pushButton_9</tabstop>
+  <tabstop>pushButton_10</tabstop>
+  <tabstop>pushButton_11</tabstop>
+  <tabstop>pushButton_12</tabstop>
+  <tabstop>pushButton_13</tabstop>
+  <tabstop>pushButton_14</tabstop>
+  <tabstop>pushButton_15</tabstop>
+  <tabstop>pushButton_16</tabstop>
+ </tabstops>
+ <resources>
+  <include location="../guitesting/icons.qrc"/>
+  <include location="icons.qrc"/>
+ </resources>
+ <connections/>
+</ui>

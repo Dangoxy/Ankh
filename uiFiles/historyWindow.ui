@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>historyWindow</class>
+ <widget class="QMainWindow" name="historyWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>600</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QListWidget" name="listWidget">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>10</y>
+      <width>580</width>
+      <height>530</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>16</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QListWidget{
+background-color: rgb(255, 255, 255,25);
+}
+QTextEdit{
+background-color: rgb(255, 255, 255);
+}</string>
+    </property>
+    <item>
+     <property name="text">
+      <string>asdasdasdasdasd : hiero</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>New Item</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>New Item</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>New Item</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>New Item</string>
+     </property>
+    </item>
+   </widget>
+   <widget class="QPushButton" name="saveAsBtn">
+    <property name="geometry">
+     <rect>
+      <x>380</x>
+      <y>550</y>
+      <width>210</width>
+      <height>40</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>MS Shell Dlg 2</family>
+      <pointsize>12</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="cursor">
+     <cursorShape>PointingHandCursor</cursorShape>
+    </property>
+    <property name="layoutDirection">
+     <enum>Qt::LeftToRight</enum>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton {
+    color: #333;
+    border: 2px solid rgb(105, 105, 157);
+    border-radius: 10px;
+
+
+     background: rgb(170, 170, 255,95%)
+	
+	
+    
+    }
+
+QPushButton:hover {
+    background: rgb(130, 130, 195);
+    }
+
+QPushButton:pressed {
+    border-style: inset;
+    background: rgb(77, 77, 115);
+    }</string>
+    </property>
+    <property name="text">
+     <string>Delete</string>
+    </property>
+    <property name="flat">
+     <bool>false</bool>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>0</y>
+      <width>600</width>
+      <height>600</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image: url(:/icons/icons/118Z_2012.w026.n002.13B.p1.13 blurredsmall.png)</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <zorder>label</zorder>
+   <zorder>listWidget</zorder>
+   <zorder>saveAsBtn</zorder>
+  </widget>
+ </widget>
+ <resources>
+  <include location="../guitesting/icons.qrc"/>
+  <include location="icons.qrc"/>
+ </resources>
+ <connections/>
+</ui>

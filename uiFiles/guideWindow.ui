@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>guideWindow</class>
+ <widget class="QMainWindow" name="guideWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>869</width>
+    <height>610</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QTabWidget" name="tabWidget">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>0</y>
+      <width>870</width>
+      <height>611</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>16</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QTabWidget::pane {
+        border: 1px solid lightgray;
+        bottom:-1px; 
+        background: rgb(245, 245, 245);} 
+        QTabBar::tab {
+        background: rgb(230, 230, 230); 
+        border: 1px solid lightgray; 
+        padding: 8px;
+        min-width:127;
+        min-height: 16;
+        max-height: 32;
+            background-color:  rgb(170, 170, 255);
+            color: rgb(51, 51, 51);} 
+        QTabBar::tab:selected { 
+        background: rgb(245, 245, 245); 
+        margin-top: -1px; 
+        background-color:  rgb(105, 105, 157);}</string>
+    </property>
+    <property name="tabPosition">
+     <enum>QTabWidget::South</enum>
+    </property>
+    <property name="tabShape">
+     <enum>QTabWidget::Rounded</enum>
+    </property>
+    <property name="currentIndex">
+     <number>0</number>
+    </property>
+    <widget class="QWidget" name="Page1">
+     <attribute name="title">
+      <string>Page 1</string>
+     </attribute>
+     <widget class="QScrollArea" name="scrollArea_2">
+      <property name="geometry">
+       <rect>
+        <x>0</x>
+        <y>0</y>
+        <width>868</width>
+        <height>568</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <family>MS Shell Dlg 2</family>
+        <pointsize>8</pointsize>
+       </font>
+      </property>
+      <property name="styleSheet">
+       <string notr="true"/>
+      </property>
+      <property name="verticalScrollBarPolicy">
+       <enum>Qt::ScrollBarAlwaysOn</enum>
+      </property>
+      <property name="horizontalScrollBarPolicy">
+       <enum>Qt::ScrollBarAlwaysOff</enum>
+      </property>
+      <property name="sizeAdjustPolicy">
+       <enum>QAbstractScrollArea::AdjustIgnored</enum>
+      </property>
+      <property name="widgetResizable">
+       <bool>true</bool>
+      </property>
+      <widget class="QWidget" name="scrollAreaWidgetContents_3">
+       <property name="geometry">
+        <rect>
+         <x>0</x>
+         <y>-1656</y>
+         <width>849</width>
+         <height>2814</height>
+        </rect>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(0, 0, 0);
+</string>
+       </property>
+       <layout class="QGridLayout" name="gridLayout_3">
+        <property name="leftMargin">
+         <number>4</number>
+        </property>
+        <property name="topMargin">
+         <number>4</number>
+        </property>
+        <property name="rightMargin">
+         <number>4</number>
+        </property>
+        <property name="bottomMargin">
+         <number>4</number>
+        </property>
+        <property name="spacing">
+         <number>0</number>
+        </property>
+        <item row="0" column="0">
+         <widget class="QLabel" name="label1_1">
+          <property name="font">
+           <font>
+            <pointsize>256</pointsize>
+           </font>
+          </property>
+          <property name="styleSheet">
+           <string notr="true">
+
+min-width:800;
+min-height: 558;
+
+margin: 0px 0px 4px 0px;
+
+image:url(:/icons/ps files/allGuide/maingui.png);</string>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+          <property name="alignment">
+           <set>Qt::AlignCenter</set>
+          </property>
+         </widget>
+        </item>
+        <item row="1" column="0">
+         <widget class="QLabel" name="label1_2">
+          <property name="font">
+           <font>
+            <pointsize>256</pointsize>
+           </font>
+          </property>
+          <property name="styleSheet">
+           <string notr="true">image: url(:/icons/ps files/allGuide/mainguilabels.png);
+min-width:800;
+min-height: 558;
+
+margin: 0px 0px 4px 0px</string>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+          <property name="alignment">
+           <set>Qt::AlignCenter</set>
+          </property>
+         </widget>
+        </item>
+        <item row="3" column="0">
+         <widget class="QLabel" name="label1_4">
+          <property name="font">
+           <font>
+            <pointsize>256</pointsize>
+           </font>
+          </property>
+          <property name="styleSheet">
+           <string notr="true">image: url(:/icons/ps files/allGuide/maingui3.png);
+min-width:800;
+min-height: 558;
+
+margin: 0px 0px 4px 0px</string>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+          <property name="alignment">
+           <set>Qt::AlignCenter</set>
+          </property>
+         </widget>
+        </item>
+        <item row="2" column="0">
+         <widget class="QLabel" name="label1_3">
+          <property name="font">
+           <font>
+            <pointsize>256</pointsize>
+           </font>
+          </property>
+          <property name="styleSheet">
+           <string notr="true">image: url(:/icons/ps files/allGuide/maingui2.png);
+min-width:800;
+min-height: 558;
+
+margin: 0px 0px 4px 0px</string>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+          <property name="alignment">
+           <set>Qt::AlignCenter</set>
+          </property>
+         </widget>
+        </item>
+        <item row="4" column="0">
+         <widget class="QLabel" name="label1_5">
+          <property name="font">
+           <font>
+            <pointsize>256</pointsize>
+           </font>
+          </property>
+          <property name="styleSheet">
+           <string notr="true">image: url(:/icons/ps files/allGuide/maingui4.png);
+min-width:800;
+min-height: 558;
+
+margin: 0px 0px 0px 0px</string>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+          <property name="alignment">
+           <set>Qt::AlignCenter</set>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+     </widget>
+    </widget>
+    <widget class="QWidget" name="Page2">
+     <attribute name="title">
+      <string>Page 2</string>
+     </attribute>
+     <widget class="QLabel" name="label2">
+      <property name="geometry">
+       <rect>
+        <x>0</x>
+        <y>-5</y>
+        <width>867</width>
+        <height>581</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>256</pointsize>
+       </font>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">image: url(:/icons/ps files/allGuide/moreinfomoreresults.png);
+min-width:800;
+min-height: 558;
+
+margin: 0px 0px 0px 0px</string>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="alignment">
+       <set>Qt::AlignCenter</set>
+      </property>
+     </widget>
+    </widget>
+    <widget class="QWidget" name="Page3">
+     <attribute name="title">
+      <string>Page 3</string>
+     </attribute>
+     <widget class="QScrollArea" name="scrollArea_7">
+      <property name="geometry">
+       <rect>
+        <x>0</x>
+        <y>0</y>
+        <width>868</width>
+        <height>568</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <family>MS Shell Dlg 2</family>
+        <pointsize>8</pointsize>
+       </font>
+      </property>
+      <property name="styleSheet">
+       <string notr="true"/>
+      </property>
+      <property name="verticalScrollBarPolicy">
+       <enum>Qt::ScrollBarAsNeeded</enum>
+      </property>
+      <property name="horizontalScrollBarPolicy">
+       <enum>Qt::ScrollBarAlwaysOff</enum>
+      </property>
+      <property name="sizeAdjustPolicy">
+       <enum>QAbstractScrollArea::AdjustIgnored</enum>
+      </property>
+      <property name="widgetResizable">
+       <bool>true</bool>
+      </property>
+      <widget class="QWidget" name="scrollAreaWidgetContents_9">
+       <property name="geometry">
+        <rect>
+         <x>0</x>
+         <y>-502</y>
+         <width>849</width>
+         <height>1136</height>
+        </rect>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(0, 0, 0);
+</string>
+       </property>
+       <layout class="QGridLayout" name="gridLayout_9">
+        <property name="leftMargin">
+         <number>4</number>
+        </property>
+        <property name="topMargin">
+         <number>4</number>
+        </property>
+        <property name="rightMargin">
+         <number>4</number>
+        </property>
+        <property name="bottomMargin">
+         <number>4</number>
+        </property>
+        <property name="spacing">
+         <number>0</number>
+        </property>
+        <item row="0" column="0">
+         <layout class="QVBoxLayout" name="verticalLayout_2">
+          <item>
+           <widget class="QLabel" name="label3_1">
+            <property name="font">
+             <font>
+              <pointsize>256</pointsize>
+             </font>
+            </property>
+            <property name="styleSheet">
+             <string notr="true">image: url(:/icons/ps files/allGuide/dictionary.png);
+min-width:800;
+min-height: 558;
+
+margin: 0px 0px 4px 0px</string>
+            </property>
+            <property name="text">
+             <string/>
+            </property>
+            <property name="alignment">
+             <set>Qt::AlignCenter</set>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QLabel" name="label3_2">
+            <property name="font">
+             <font>
+              <pointsize>256</pointsize>
+             </font>
+            </property>
+            <property name="styleSheet">
+             <string notr="true">image: url(:/icons/ps files/allGuide/dictionarylabels.png);
+min-width:800;
+min-height: 558;
+
+margin: 0px 0px 0px 0px</string>
+            </property>
+            <property name="text">
+             <string/>
+            </property>
+            <property name="alignment">
+             <set>Qt::AlignCenter</set>
+            </property>
+           </widget>
+          </item>
+         </layout>
+        </item>
+       </layout>
+      </widget>
+     </widget>
+    </widget>
+    <widget class="QWidget" name="Page4">
+     <attribute name="title">
+      <string>Page 4</string>
+     </attribute>
+     <widget class="QLabel" name="label4">
+      <property name="geometry">
+       <rect>
+        <x>0</x>
+        <y>-5</y>
+        <width>867</width>
+        <height>581</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>256</pointsize>
+       </font>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">
+image: url(:/icons/ps files/allGuide/settings.png);
+min-width:800;
+min-height: 558;
+
+margin: 0px 0px 0px 0px</string>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="alignment">
+       <set>Qt::AlignCenter</set>
+      </property>
+     </widget>
+    </widget>
+    <widget class="QWidget" name="Page5">
+     <attribute name="title">
+      <string>Page 5</string>
+     </attribute>
+     <widget class="QLabel" name="label5">
+      <property name="geometry">
+       <rect>
+        <x>0</x>
+        <y>-5</y>
+        <width>867</width>
+        <height>581</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>256</pointsize>
+       </font>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">image: url(:/icons/ps files/allGuide/history.png);
+min-width:800;
+min-height: 558;
+
+margin: 0px 0px 0px 0px</string>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="alignment">
+       <set>Qt::AlignCenter</set>
+      </property>
+     </widget>
+    </widget>
+    <widget class="QWidget" name="Page6">
+     <attribute name="title">
+      <string>Page 6</string>
+     </attribute>
+     <widget class="QLabel" name="bgLabel">
+      <property name="geometry">
+       <rect>
+        <x>0</x>
+        <y>0</y>
+        <width>867</width>
+        <height>581</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>256</pointsize>
+       </font>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">image: url(:/icons/ps files/allGuide/background.png);
+min-width:800;
+min-height: 558;
+
+margin: 0px 0px 0px 0px</string>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="alignment">
+       <set>Qt::AlignCenter</set>
+      </property>
+     </widget>
+     <widget class="QLabel" name="titleLabel">
+      <property name="geometry">
+       <rect>
+        <x>50</x>
+        <y>100</y>
+        <width>781</width>
+        <height>181</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>60</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string>Guide video by
+Ammar Abdelwadoud:</string>
+      </property>
+     </widget>
+     <widget class="QTextBrowser" name="linkTextArea">
+      <property name="geometry">
+       <rect>
+        <x>40</x>
+        <y>390</y>
+        <width>791</width>
+        <height>131</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">background-color: rgba(255, 255, 255,25%);</string>
+      </property>
+      <property name="html">
+       <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=HLetFEpgPgY&quot;&gt;&lt;span style=&quot; font-size:32pt; text-decoration: underline; color:#0000ff;&quot;&gt;https://www.youtube.com/watch?v=HLetFEpgPgY&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+      </property>
+      <property name="openExternalLinks">
+       <bool>true</bool>
+      </property>
+     </widget>
+    </widget>
+   </widget>
+  </widget>
+ </widget>
+ <resources>
+  <include location="../guitesting/icons.qrc"/>
+  <include location="icons.qrc"/>
+ </resources>
+ <connections/>
+</ui>
